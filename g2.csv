@@ -1,0 +1,1462 @@
+,date,city_1,country_1,city_2,country_2,working,source,lat,lng,same
+0,1950-01-01,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+1,1950-01-02,Paris,France,,,y,,48.856614,2.3522219,True
+2,1950-01-03,Paris,France,,,y,SIU Box 14 folder 6; SIU Box 39 folder 1,48.856614,2.3522219,True
+3,1950-01-04,Paris,France,,,y,SIU Box 14 folder 6; SIU Box 39 folder 2,48.856614,2.3522219,True
+4,1950-01-05,Paris,France,,,y,SIU Box 14 folder 6; SIU Box 39 folder 3,48.856614,2.3522219,True
+5,1950-01-06,Paris,France,,,y,SIU Box 14 folder 6; SIU Box 39 folder 4,48.856614,2.3522219,True
+6,1950-01-07,Paris,France,,,y,,48.856614,2.3522219,True
+7,1950-01-08,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+8,1950-01-09,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+9,1950-01-10,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+10,1950-01-11,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+11,1950-01-12,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+12,1950-01-13,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+13,1950-01-14,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+14,1950-01-15,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+15,1950-01-16,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+16,1950-01-17,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+17,1950-01-18,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+18,1950-01-19,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+19,1950-01-20,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+20,1950-01-21,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+21,1950-01-22,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+22,1950-01-23,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+23,1950-01-24,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+24,1950-01-25,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+25,1950-01-26,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+26,1950-01-27,Paris,France,,,y,"SIU Box 14 folder 6, 7",48.856614,2.3522219,True
+27,1950-01-28,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+28,1950-01-29,Paris,France,,,y,SIU Box 14 folder 6,48.856614,2.3522219,True
+29,1950-01-30,Paris,France,Cairo ,Egypt,n,TWA flight timetable Nov. 1949 from the collection of Björn Larsson,48.856614,2.3522219,True
+30,1950-01-31,Cairo,Egypt,,,n,SIU Box 14 folder 8,30.0444196,31.2357116,False
+31,1950-02-01,Cairo,Egypt,,,n,SIU Box 14 folder 8,30.0444196,31.2357116,True
+32,1950-02-02,Cairo,Egypt,,,n,SIU Box 14 folder 8,30.0444196,31.2357116,True
+33,1950-02-03,Cairo,Egypt,,,n,SIU Box 14 folder 8,30.0444196,31.2357116,True
+34,1950-02-04,Cairo,Egypt,Rome,Italy,n,SIU Box 14 folder 8; AirFrance flight timetable May 1950 from the collection of Björn Larsson,30.0444196,31.2357116,True
+35,1950-02-05,Rome,Italy,Turin,Italy,n,SIU Box 14 folder 8,41.9027835,12.4963655,False
+36,1950-02-06,Turin,Italy,,,y,,45.070312,7.686856499999999,False
+37,1950-02-07,Turin,Italy,,,y,,45.070312,7.686856499999999,True
+38,1950-02-08,Genoa,Italy,,,y,SIU Box 39 folder 1,44.4056499,8.946256,False
+39,1950-02-09,Genoa,Italy,,,y,SIU Box 39 folder 1,44.4056499,8.946256,True
+40,1950-02-10,,,,,n,SIU Box 39 folder 1,36.0545737,-95.923037,False
+41,1950-02-11,Naples,Italy,,,y,SIU Box 39 folder 1,40.8517746,14.2681244,False
+42,1950-02-12,Naples,Italy,,,y,SIU Box 39 folder 1,40.8517746,14.2681244,True
+43,1950-02-13,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,False
+44,1950-02-14,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,True
+45,1950-02-15,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,True
+46,1950-02-16,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,True
+47,1950-02-17,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,True
+48,1950-02-18,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,True
+49,1950-02-19,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,True
+50,1950-02-20,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,True
+51,1950-02-21,Rome,Italy,,,y,SIU Box 14 folder 8,41.9027835,12.4963655,True
+52,1950-02-22,,,,,n,,36.0545737,-95.923037,False
+53,1950-02-23,Florence,Italy,,,n,SIU Box 14 folder 8,43.7695604,11.2558136,False
+54,1950-02-24,Florence,Italy,,,n,SIU Box 14 folder 8,43.7695604,11.2558136,True
+55,1950-02-25,Florence,Italy,,,n,SIU Box 14 folder 8,43.7695604,11.2558136,True
+56,1950-02-26,Florence,Italy,,,n,SIU Box 14 folder 8,43.7695604,11.2558136,True
+57,1950-02-27,Bologna,Italy,,,y,SIU Box 14 folder 8,44.494887,11.3426162,False
+58,1950-02-28,Bologna,Italy,,,y,SIU Box 14 folder 8,44.494887,11.3426162,True
+59,1950-03-01,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,False
+60,1950-03-02,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+61,1950-03-03,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+62,1950-03-04,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+63,1950-03-05,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+64,1950-03-06,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+65,1950-03-07,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+66,1950-03-08,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+67,1950-03-09,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+68,1950-03-10,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+69,1950-03-11,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+70,1950-03-12,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+71,1950-03-13,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+72,1950-03-14,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+73,1950-03-15,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+74,1950-03-16,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+75,1950-03-17,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+76,1950-03-18,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+77,1950-03-19,Milan,Italy,,,y,SIU Box 15 folder 1,45.4642035,9.189982,True
+78,1950-03-20,Milan,Italy,Venice,Italy,y,"SIU Box 15 folder 1, 2",45.4642035,9.189982,True
+79,1950-03-21,Venice,Italy,,,y,SIU Box 15 folder 1,45.4408474,12.3155151,False
+80,1950-03-22,Venice,Italy,,,y,SIU Box 15 folder 1,45.4408474,12.3155151,True
+81,1950-03-23,Venice,Italy,Milan,Italy,y,"SIU Box 15 folder 1, 2",45.4408474,12.3155151,True
+82,1950-03-24,Milan,Italy,Piacenza,Italy,y,SIU Box 15 folder 1,45.4642035,9.189982,False
+83,1950-03-25,Piacenza,Italy,Brescia,Italy,y,SIU Box 15 folder 1,45.0526206,9.6929845,False
+84,1950-03-26,Brescia,Italy,Biella,Italy,y,SIU Box 15 folder 1; box 15 folder 6,45.5415526,10.2118019,False
+85,1950-03-27,Biella,Italy,Genoa,Italy,y,,45.56288420000001,8.0583397,False
+86,1950-03-28,Genoa,Italy,,,n,SIU Box 14 folder 6,44.4056499,8.946256,False
+87,1950-03-29,Milan,Italy,Paris,France,n,SIU Box 15 folder 2; Box 39 folder 1,45.4642035,9.189982,False
+88,1950-03-30,Paris,France,,,n,,48.856614,2.3522219,False
+89,1950-03-31,Paris,France,,,n,,48.856614,2.3522219,True
+90,1950-04-01,Paris,France,,,n,"SIU Box 15 folder 2, 3",48.856614,2.3522219,True
+91,1950-04-02,Paris,France,,,n,SIU Box 15 folder 3,48.856614,2.3522219,True
+92,1950-04-03,Paris,France,,,n,SIU Box 15 folder 3,48.856614,2.3522219,True
+93,1950-04-04,Paris,France,,,n,SIU Box 15 folder 3,48.856614,2.3522219,True
+94,1950-04-05,Paris,France,,,n,SIU Box 15 folder 3,48.856614,2.3522219,True
+95,1950-04-06,Paris,France,,,n,SIU Box 15 folder 3,48.856614,2.3522219,True
+96,1950-04-07,Paris,France,,,n,SIU Box 15 folder 3,48.856614,2.3522219,True
+97,1950-04-08,Paris,France,,,n,SIU Box 15 folder 3,48.856614,2.3522219,True
+98,1950-04-09,Paris,France,,,n,,48.856614,2.3522219,True
+99,1950-04-10,Paris,France,New York City,USA,n,Pan American Airways Passenger Manifests (from London and from Paris),48.856614,2.3522219,True
+100,1950-04-11,New York City,USA,,,n,,40.7127753,-74.0059728,False
+101,1950-04-12,New York City,USA,,,n,,40.7127753,-74.0059728,True
+102,1950-04-13,New York City,USA,,,n,SIU Box 15 folder 3,40.7127753,-74.0059728,True
+103,1950-04-14,New York City,USA,,,y,SIU Box 15 folder 3,40.7127753,-74.0059728,True
+104,1950-04-15,New York City,USA,,,y,SIU Box 15 folder 3; SIU Box 39 folder 2,40.7127753,-74.0059728,True
+105,1950-04-16,New York City,USA,,,y,SIU Box 15 folder 3; IBDB,40.7127753,-74.0059728,True
+106,1950-04-17,New York City,USA,,,y,SIU Box 15 folder 3; IBDB,40.7127753,-74.0059728,True
+107,1950-04-18,New York City,USA,,,y,SIU Box 15 folder 3; IBDB,40.7127753,-74.0059728,True
+108,1950-04-19,New York City,USA,,,y,"SIU program, MHS Box 22 Personal Log; IBDB",40.7127753,-74.0059728,True
+109,1950-04-20,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+110,1950-04-21,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+111,1950-04-22,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+112,1950-04-23,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+113,1950-04-24,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+114,1950-04-25,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+115,1950-04-26,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+116,1950-04-27,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+117,1950-04-28,New York City,USA,,,y,SIU Box 15 folder 5,40.7127753,-74.0059728,True
+118,1950-04-29,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+119,1950-04-30,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+120,1950-05-01,New York City,USA,,,y,"SIU program, MHS Box 22 Personal Log",40.7127753,-74.0059728,True
+121,1950-05-02,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+122,1950-05-03,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+123,1950-05-04,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+124,1950-05-05,New York City,USA,,,y,SIU Box 15 folder 5,40.7127753,-74.0059728,True
+125,1950-05-06,New York City,USA,,,y,SIU Box 15 folder 5,40.7127753,-74.0059728,True
+126,1950-05-07,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+127,1950-05-08,New York City,USA,,,y,"SIU program, MHS Box 22 Personal Log",40.7127753,-74.0059728,True
+128,1950-05-09,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+129,1950-05-10,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+130,1950-05-11,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+131,1950-05-12,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+132,1950-05-13,New York City,USA,,,y,IBDB,40.7127753,-74.0059728,True
+133,1950-05-14,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+134,1950-05-15,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+135,1950-05-16,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+136,1950-05-17,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+137,1950-05-18,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+138,1950-05-19,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+139,1950-05-20,New York City,USA,,,y,SIU Box 39 folder 2; NYT,40.7127753,-74.0059728,True
+140,1950-05-21,New York City,USA,,,y,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+141,1950-05-22,New York City,USA,,,n,,40.7127753,-74.0059728,True
+142,1950-05-23,New York City,USA,,,n,,40.7127753,-74.0059728,True
+143,1950-05-24,New York City,USA,,,n,,40.7127753,-74.0059728,True
+144,1950-05-25,New York City,USA,,,n,,40.7127753,-74.0059728,True
+145,1950-05-26,New York City,USA,,,n,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+146,1950-05-27,New York City,USA,,,n,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+147,1950-05-28,New York City,USA,,,n,SIU Box 39 folder 2,40.7127753,-74.0059728,True
+148,1950-05-29,New York City,USA,,,n,,40.7127753,-74.0059728,True
+149,1950-05-30,New York City,USA,,,n,,40.7127753,-74.0059728,True
+150,1950-05-31,New York City,USA,,,n,,40.7127753,-74.0059728,True
+151,1950-06-01,New York City,USA,,,n,,40.7127753,-74.0059728,True
+152,1950-06-02,New York City,USA,,,n,,40.7127753,-74.0059728,True
+153,1950-06-03,New York City,USA,,,n,Brazilian visa documentation,40.7127753,-74.0059728,True
+154,1950-06-04,New York City,USA,,,n,,40.7127753,-74.0059728,True
+155,1950-06-05,New York City,USA,,,n,flight manifest; flight schedule,40.7127753,-74.0059728,True
+156,1950-06-06,Belem,Brazil,,,n,Brazilian visa documentation,-1.4557292,-48.4901785,False
+157,1950-06-07,Belem,Brazil,Recife,Brazil,n,"MHS Box 22 Personal Log, SIU Box 15, folder 5",-1.4557292,-48.4901785,True
+158,1950-06-08,Recife,Brazil,,,n,"SIU Box 15, Folder 5",-8.0522404,-34.9286096,False
+159,1950-06-09,Recife,Brazil,,,y,"SIU Box 15, Folder 5",-8.0522404,-34.9286096,True
+160,1950-06-10,Recife,Brazil,,,y,SIU Box 39 folder 2,-8.0522404,-34.9286096,True
+161,1950-06-11,Recife,Brazil,,,y,SIU Box 39 folder 2,-8.0522404,-34.9286096,True
+162,1950-06-12,Recife,Brazil,,,y,SIU Box 39 folder 2,-8.0522404,-34.9286096,True
+163,1950-06-13,Recife,Brazil,Rio de Janeiro,Brazil,n,SIU Box 39 folder 2,-8.0522404,-34.9286096,True
+164,1950-06-14,Rio de Janeiro,Brazil,,,n,"SIU Box 15, Folder 5",-22.9068467,-43.1728965,False
+165,1950-06-15,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+166,1950-06-16,Rio de Janeiro,Brazil,,,y,MHS Box 22 Personal Log; SIU Box 39 folder 2,-22.9068467,-43.1728965,True
+167,1950-06-17,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+168,1950-06-18,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+169,1950-06-19,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+170,1950-06-20,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+171,1950-06-21,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+172,1950-06-22,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+173,1950-06-23,Rio de Janeiro,Brazil,,,y,"SIU Box 15, Folder 5",-22.9068467,-43.1728965,True
+174,1950-06-24,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+175,1950-06-25,Rio de Janeiro,Brazil,,,y,"SIU Box 15, Folder 5",-22.9068467,-43.1728965,True
+176,1950-06-26,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+177,1950-06-27,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+178,1950-06-28,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+179,1950-06-29,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+180,1950-06-30,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+181,1950-07-01,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+182,1950-07-02,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+183,1950-07-03,Rio de Janeiro,Brazil,,,y,timetable in personal log SIU Box 42 folder 1,-22.9068467,-43.1728965,True
+184,1950-07-04,Rio de Janeiro,Brazil,,,y,timetable in personal log SIU Box 42 folder 1; Brazilian visa docs,-22.9068467,-43.1728965,True
+185,1950-07-05,Rio de Janeiro,Brazil,,,y,timetable in personal log SIU Box 42 folder 1,-22.9068467,-43.1728965,True
+186,1950-07-06,Rio de Janeiro,Brazil,,,y,timetable in personal log SIU Box 42 folder 1,-22.9068467,-43.1728965,True
+187,1950-07-07,Rio de Janeiro,Brazil,,,y,timetable in personal log SIU Box 42 folder 1,-22.9068467,-43.1728965,True
+188,1950-07-08,Rio de Janeiro,Brazil,,,n,,-22.9068467,-43.1728965,True
+189,1950-07-09,Rio de Janeiro,Brazil,,,n,,-22.9068467,-43.1728965,True
+190,1950-07-10,Rio de Janeiro,Brazil,Sao Paulo,Brazil,n,SIU Box 39 folder 2,-22.9068467,-43.1728965,True
+191,1950-07-11,Sao Paulo,Brazil,,,y,SIU Box 39 folder 2; SIU Box 104 folder 4,-23.5505199,-46.63330939999999,False
+192,1950-07-12,Sao Paulo,Brazil,,,y,SIU Box 15 folder 5,-23.5505199,-46.63330939999999,True
+193,1950-07-13,Sao Paulo,Brazil,,,y,SIU Box 39 folder 2,-23.5505199,-46.63330939999999,True
+194,1950-07-14,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+195,1950-07-15,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+196,1950-07-16,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+197,1950-07-17,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+198,1950-07-18,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+199,1950-07-19,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+200,1950-07-20,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+201,1950-07-21,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+202,1950-07-22,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+203,1950-07-23,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+204,1950-07-24,Sao Paulo,Brazil,,,y,SIU program,-23.5505199,-46.63330939999999,True
+205,1950-07-25,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+206,1950-07-26,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+207,1950-07-27,Sao Paulo,Brazil,,,y,,-23.5505199,-46.63330939999999,True
+208,1950-07-28,Sao Paulo,Brazil,,,n,,-23.5505199,-46.63330939999999,True
+209,1950-07-29,Sao Paulo,Brazil,Rio de Janeiro,Brazil,y,SIU Box 39 folder 2; SIU Box 104 folder 4; SIU Box 42 folder 1,-23.5505199,-46.63330939999999,True
+210,1950-07-30,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,False
+211,1950-07-31,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+212,1950-08-01,Rio de Janeiro,Brazil,,,y,SIU Box 39 folder 2,-22.9068467,-43.1728965,True
+213,1950-08-02,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+214,1950-08-03,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+215,1950-08-04,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+216,1950-08-05,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+217,1950-08-06,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+218,1950-08-07,Rio de Janeiro,Brazil,,,y,,-22.9068467,-43.1728965,True
+219,1950-08-08,Rio de Janeiro,Brazil,,,y,SIU Box 39 folder 3,-22.9068467,-43.1728965,True
+220,1950-08-09,Rio de Janeiro,Brazil,,,y,SIU Box 39 folder 3,-22.9068467,-43.1728965,True
+221,1950-08-10,Rio de Janeiro,Brazil,,,y,SIU Box 39 folder 3,-22.9068467,-43.1728965,True
+222,1950-08-11,Rio de Janeiro,Brazil,,,y,SIU Box 39 folder 3,-22.9068467,-43.1728965,True
+223,1950-08-12,Rio de Janeiro,Brazil,,,y,SIU Box 39 folder 3,-22.9068467,-43.1728965,True
+224,1950-08-13,Rio de Janeiro,Brazil,,,y,SIU Box 39 folder 3,-22.9068467,-43.1728965,True
+225,1950-08-14,Rio de Janeiro,Brazil,Montevideo,Uruguay,n,SIU Box 39 folder 3,-22.9068467,-43.1728965,True
+226,1950-08-15,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,False
+227,1950-08-16,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+228,1950-08-17,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+229,1950-08-18,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+230,1950-08-19,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+231,1950-08-20,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+232,1950-08-21,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+233,1950-08-22,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+234,1950-08-23,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+235,1950-08-24,Montevideo,Uruguay,,,y,SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+236,1950-08-25,Montevideo,Uruguay,,,y,SIU program; MHS Box 22 Personal Log; SIU Box 39 folder 3,-34.9011127,-56.16453139999999,True
+237,1950-08-26,Montevideo,Uruguay,,,y,SIU Box 104 folder 4,-34.9011127,-56.16453139999999,True
+238,1950-08-27,Montevideo,Uruguay,,,y,SIU Box 104 folder 4,-34.9011127,-56.16453139999999,True
+239,1950-08-28,Montevideo,Uruguay,,,y,SIU Box 104 folder 4; SIU Box 42 folder 1,-34.9011127,-56.16453139999999,True
+240,1950-08-29,Montevideo,Uruguay,,,y,SIU Box 104 folder 4,-34.9011127,-56.16453139999999,True
+241,1950-08-30,Montevideo,Uruguay,Buenos Aires,Argentina,n,,-34.9011127,-56.16453139999999,True
+242,1950-08-31,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,False
+243,1950-09-01,Buenos Aires,Argentina,,,y,SIU program; MHS Box 22 Personal Log; SIU Box 104 folder 4,-34.6036844,-58.3815591,True
+244,1950-09-02,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+245,1950-09-03,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+246,1950-09-04,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+247,1950-09-05,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+248,1950-09-06,Buenos Aires,Argentina,,,y,"SIU Box 15, folder 6",-34.6036844,-58.3815591,True
+249,1950-09-07,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+250,1950-09-08,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+251,1950-09-09,Buenos Aires,Argentina,,,y,SIU Box 42 folder 1,-34.6036844,-58.3815591,True
+252,1950-09-10,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+253,1950-09-11,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+254,1950-09-12,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+255,1950-09-13,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+256,1950-09-14,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+257,1950-09-15,Buenos Aires,Argentina,,,y,"SIU program, MHS Box 22 Personal Log",-34.6036844,-58.3815591,True
+258,1950-09-16,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+259,1950-09-17,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+260,1950-09-18,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+261,1950-09-19,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+262,1950-09-20,Buenos Aires,Argentina,,,y,"SIU program, MHS Box 22 Personal Log",-34.6036844,-58.3815591,True
+263,1950-09-21,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+264,1950-09-22,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+265,1950-09-23,Buenos Aires,Argentina,,,y,"SIU Box 15, folder 6",-34.6036844,-58.3815591,True
+266,1950-09-24,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+267,1950-09-25,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+268,1950-09-26,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+269,1950-09-27,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+270,1950-09-28,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+271,1950-09-29,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+272,1950-09-30,Buenos Aires,Argentina,,,y,"SIU program, MHS Box 22 Personal Log",-34.6036844,-58.3815591,True
+273,1950-10-01,Buenos Aires,Argentina,,,y,"NYT 01 Oct 1950, p106",-34.6036844,-58.3815591,True
+274,1950-10-02,Buenos Aires,Argentina,,,y,"SIU program, MHS Box 22 Personal Log",-34.6036844,-58.3815591,True
+275,1950-10-03,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+276,1950-10-04,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+277,1950-10-05,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+278,1950-10-06,Buenos Aires,Argentina,,,y,"SIU program, MHS Box 22 Personal Log",-34.6036844,-58.3815591,True
+279,1950-10-07,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+280,1950-10-08,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+281,1950-10-09,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+282,1950-10-10,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+283,1950-10-11,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+284,1950-10-12,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+285,1950-10-13,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+286,1950-10-14,Buenos Aires,Argentina,,,y,"SIU Box 15, folder 6",-34.6036844,-58.3815591,True
+287,1950-10-15,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+288,1950-10-16,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+289,1950-10-17,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+290,1950-10-18,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+291,1950-10-19,Buenos Aires,Argentina,,,y,"Variety Vol. 180, Iss. 13,  (Dec 6, 1950): 17; Vol. 180, Iss. 10,  (Nov 15, 1950): 12",-34.6036844,-58.3815591,True
+292,1950-10-20,Buenos Aires,Argentina,,,y,"SIU program, MHS Box 22 Personal Log",-34.6036844,-58.3815591,True
+293,1950-10-21,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+294,1950-10-22,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+295,1950-10-23,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+296,1950-10-24,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+297,1950-10-25,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+298,1950-10-26,Buenos Aires,Argentina,,,y,SIU program,-34.6036844,-58.3815591,True
+299,1950-10-27,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+300,1950-10-28,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+301,1950-10-29,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+302,1950-10-30,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+303,1950-10-31,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+304,1950-11-01,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+305,1950-11-02,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+306,1950-11-03,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+307,1950-11-04,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+308,1950-11-05,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+309,1950-11-06,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+310,1950-11-07,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+311,1950-11-08,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+312,1950-11-09,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+313,1950-11-10,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+314,1950-11-11,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+315,1950-11-12,Buenos Aires,Argentina,,,y,,-34.6036844,-58.3815591,True
+316,1950-11-13,Buenos Aires,Argentina,,,y,"Variety Vol. 180, Iss. 13, (Dec 6, 1950): 17; Vol. 180, Iss. 10, (Nov 15, 1950): 12",-34.6036844,-58.3815591,True
+317,1950-11-14,,,,,,,35.2109787,-101.8667601,False
+318,1950-11-15,,,,,,,35.2109787,-101.8667601,False
+319,1950-11-16,,,,,,,35.2109787,-101.8667601,False
+320,1950-11-17,,,,,,,35.2109787,-101.8667601,False
+321,1950-11-18,,,,,,,35.2109787,-101.8667601,False
+322,1950-11-19,,,,,,,35.2109787,-101.8667601,False
+323,1950-11-20,,,,,,,35.2109787,-101.8667601,False
+324,1950-11-21,,,,,,,35.2109787,-101.8667601,False
+325,1950-11-22,,,,,,,35.2109787,-101.8667601,False
+326,1950-11-23,,,Santiago,Chile,n,"El Mercurio [Santiago de Chile] 23 Nov. 1950 p 47 ""La extraña fascinación de los rituales negros nos trae Katherine Dunham""",36.0545737,-95.923037,False
+327,1950-11-24,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 24 Nov. 1950 p 44 ""Mañana debuts en el Municipal Katherine Dunham y su Compañia""",-33.4488897,-70.6692655,False
+328,1950-11-25,Santiago,Chile,,,y,"Das; El Mercurio [Santiago de Chile] 6 Nov. 1950 p 55 ""Katherine Dunham viene al Municipal con su brillante espectáculo""; El Mercurio [Santiago de Chile] 7 Nov. 1950 p 43 ""Katherine Dunham y su brillante espectáculo al Municipal, debutando el sábado 25""; El Mercurio [Santiago de Chile] 25 Nov. 1950 p 52 advert and p 52 ""Tarde y noche se presenta hoy en el Municipal Katherine Dunham""; El Mercurio [Santiago de Chile] 26 Nov. 1950 p 43 ""Debut de Katherine Dunham""",-33.4488897,-70.6692655,True
+329,1950-11-26,Santiago,Chile,,,y,El Mercurio [Santiago de Chile] 26 Nov. 1950 p 43 advertisement,-33.4488897,-70.6692655,True
+330,1950-11-27,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 27 Nov. 1950 p 50 advertisement and p 49 ""Exito de Katherine Dunham en el Municipal""",-33.4488897,-70.6692655,True
+331,1950-11-28,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 28 Nov. 1950 p 43 advertisement and p 41 ""Nuevo espectáculo ofrece hoy Katherine Dunham y su Compañia""",-33.4488897,-70.6692655,True
+332,1950-11-29,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 29 Nov. 1950 p 46 advertisement and p 45 ""Katherine Dunham ofrece hoy en el Municipal brillante programa""",-33.4488897,-70.6692655,True
+333,1950-11-30,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 30 Nov. 1950 p 49 advertisement and p 49 ""Digno y brillante espectáculo de Katherine Dunham en el Municipal""",-33.4488897,-70.6692655,True
+334,1950-12-01,Santiago,Chile,,,y,El Mercurio [Santiago de Chile] 1 Dec. 1950 p 44 advertisement,-33.4488897,-70.6692655,True
+335,1950-12-02,Santiago,Chile,,,y,El Mercurio [Santiago de Chile] 2 Dec. 1950 p 47 advertisement,-33.4488897,-70.6692655,True
+336,1950-12-03,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 3 Dec. 1950 p 49 advertisement and p 49 ""Atrayentes funciones ofrece hoy Katherine Dunham en el Municipal""",-33.4488897,-70.6692655,True
+337,1950-12-04,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 4 Dec. 1950 p 49 advertisement and p 49 ""Soberbio espectáculo ofrece hoy Katherine Dunham""",-33.4488897,-70.6692655,True
+338,1950-12-05,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 4 Dec. 1950 p 49 advertisement and p 49 ""Soberbio espectáculo ofrece hoy Katherine Dunham""",-33.4488897,-70.6692655,True
+339,1950-12-06,Santiago,Chile,,,y,El Mercurio [Santiago de Chile] 6 Dec. 1950 p 45 advertisement ,-33.4488897,-70.6692655,True
+340,1950-12-07,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 7 Dec. 1950 p 45 advertisement and p 45 ""Hoy pargrama extraordinaio y el sábado dos estrenos nos ofrece Katherine Dunham""",-33.4488897,-70.6692655,True
+341,1950-12-08,Santiago,Chile,,,y,El Mercurio [Santiago de Chile] 7 Dec. 1950 p 45 advertisement,-33.4488897,-70.6692655,True
+342,1950-12-09,Santiago,Chile,,,y,"El Mercurio [Santiago de Chile] 8 Dec. 1950 p 57 advertisement and p 57 and ""Katherine Dunham ofrece mañana dos estrenos absolutos""; El Mercurio [Santiago de Chile] 9 Dec. 1950 p 37 advertisement and p 39 ""Dos estrenos absolutos nos ofrece hoy Katherine Dunham""",-33.4488897,-70.6692655,True
+343,1950-12-10,Santiago,Chile,,,y,El Mercurio [Santiago de Chile] 10 Dec. 1950 p 39 (advert),-33.4488897,-70.6692655,True
+344,1950-12-11,Santiago,Chile,Buenos Aires,Argentina,n,,-33.4488897,-70.6692655,True
+345,1950-12-12,Buenos Aires,Argentina,Mar del Plata,Argentina,n,,-34.6036844,-58.3815591,False
+346,1950-12-13,Mar del Plata,Argentina,,,n,,-38.0054771,-57.5426106,False
+347,1950-12-14,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+348,1950-12-15,Mar del Plata,Argentina,,,y,SIU program,-38.0054771,-57.5426106,True
+349,1950-12-16,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+350,1950-12-17,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+351,1950-12-18,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+352,1950-12-19,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+353,1950-12-20,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+354,1950-12-21,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+355,1950-12-22,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+356,1950-12-23,Mar del Plata,Argentina,,,y,SIU program,-38.0054771,-57.5426106,True
+357,1950-12-24,Mar del Plata,Argentina,,,y,SIU Box 39 folder 4,-38.0054771,-57.5426106,True
+358,1950-12-25,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+359,1950-12-26,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+360,1950-12-27,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+361,1950-12-28,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+362,1950-12-29,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+363,1950-12-30,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+364,1950-12-31,Mar del Plata,Argentina,,,y,,-38.0054771,-57.5426106,True
+365,1951-01-01,Mar del Plata,Argentina,,,y,SIU Box 39 folder 4,-38.0054771,-57.5426106,True
+366,1951-01-02,Mar del Plata,Argentina,,,n,,-38.0054771,-57.5426106,True
+367,1951-01-03,Mar del Plata,Argentina,,,n,SIU Box 95 folder 3,-38.0054771,-57.5426106,True
+368,1951-01-04,Buenos Aires,Argentina,,,n,SIU Box 95 folder 3,-34.6036844,-58.3815591,False
+369,1951-01-05,Buenos Aires,Argentina,Lima,Peru,n,MHS Box 22 Personal Log; SIU Box 95 folder 3,-34.6036844,-58.3815591,True
+370,1951-01-06,Lima,Peru,,,n,MHS Box 22 Personal Log; SIU Box 15 folder 7; SIU Box 95 folder 3,-12.0463731,-77.042754,False
+371,1951-01-07,Lima,Peru,,,n,MHS Box 22 Personal Log; SIU Box 15 folder 7,-12.0463731,-77.042754,True
+372,1951-01-08,Lima,Peru,,,n,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+373,1951-01-09,Lima,Peru,,,n,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+374,1951-01-10,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+375,1951-01-11,Lima,Peru,,,y,MHS Box 22 Personal Log; SIU Box 39 folder 4; SIU Box 95 folder 3,-12.0463731,-77.042754,True
+376,1951-01-12,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+377,1951-01-13,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+378,1951-01-14,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+379,1951-01-15,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+380,1951-01-16,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+381,1951-01-17,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+382,1951-01-18,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+383,1951-01-19,Lima,Peru,,,y,MHS Box 22 Personal Log,,,True
+384,1951-01-20,Lima,Peru,,,y,MHS Box 22 Personal Log; NYT,-12.0463731,-77.042754,True
+385,1951-01-21,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+386,1951-01-22,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+387,1951-01-23,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+388,1951-01-24,Lima,Peru,,,y,MHS Box 22 Personal Log,-12.0463731,-77.042754,True
+389,1951-01-25,Lima,Peru,,,y,SIU program,-12.0463731,-77.042754,True
+390,1951-01-26,Lima,Peru,,,y,MHS Box 22 Personal Log; SIU Box 95 folder 3,-12.0463731,-77.042754,True
+391,1951-01-27,Lima,Peru,,,y,SIU program,-12.0463731,-77.042754,True
+392,1951-01-28,Lima,Peru,,,y,MHS Box 22 Personal Log; SIU Box 15 folder 7,-12.0463731,-77.042754,True
+393,1951-01-29,Lima,Peru,Quito,Ecuador,n,MHS Box 22 Personal Log; SIU Box 15 folder 7; SIU Box 95 folder 3,-12.0463731,-77.042754,True
+394,1951-01-30,Quito,Ecuador,,,y,MHS Box 22 Personal Log; SIU Box 15 folder 7,-0.1806532,-78.4678382,False
+395,1951-01-31,Quito,Ecuador,,,y,MHS Box 22 Personal Log,-0.1806532,-78.4678382,True
+396,1951-02-01,Quito,Ecuador,,,y,MHS Box 22 Personal Log,-0.1806532,-78.4678382,True
+397,1951-02-02,Quito,Ecuador,Cali,Colombia,n,MHS Box 22 Personal Log,-0.1806532,-78.4678382,True
+398,1951-02-03,Cali,Colombia,,,y,,3.4516467,-76.5319854,False
+399,1951-02-04,Cali,Colombia,Bogota,Colombia,n,,3.4516467,-76.5319854,True
+400,1951-02-05,Bogota,Colombia,,,y,SIU Box 15 folder 7,4.710988599999999,-74.072092,False
+401,1951-02-06,Bogota,Colombia,,,y,SIU Box 15 folder 7; Box 39 folder 4,4.710988599999999,-74.072092,True
+402,1951-02-07,Bogota,Colombia,,,y,SIU Box 15 folder 7,4.710988599999999,-74.072092,True
+403,1951-02-08,Bogota,Colombia,,,y,,4.710988599999999,-74.072092,True
+404,1951-02-09,Bogota,Colombia,,,y,,4.710988599999999,-74.072092,True
+405,1951-02-10,Bogota,Colombia,,,y,,4.710988599999999,-74.072092,True
+406,1951-02-11,Bogota,Colombia,,,y,SIU Box 95 folder 3,4.710988599999999,-74.072092,True
+407,1951-02-12,Bogota,Colombia,,,y,,4.710988599999999,-74.072092,True
+408,1951-02-13,Bogota,Colombia,,,y,SIU Box 15 folder 7,4.710988599999999,-74.072092,True
+409,1951-02-14,Bogota,Colombia,,,y,SIU Box 15 folder 7,4.710988599999999,-74.072092,True
+410,1951-02-15,Bogota,Colombia,,,y,SIU Box 15 folder 7,4.710988599999999,-74.072092,True
+411,1951-02-16,Bogota,Colombia,,,y,SIU Box 15 folder 7; SIU Box 95 folder 3,4.710988599999999,-74.072092,True
+412,1951-02-17,Bogota,Colombia,,,y,SIU Box 15 folder 7,4.710988599999999,-74.072092,True
+413,1951-02-18,Bogota,Colombia,,,y,SIU Box 15 folder 7,4.710988599999999,-74.072092,True
+414,1951-02-19,Bogota,Colombia,Medellin,Colombia,n,SIU Box 15 folder 7; SIU Box 95 folder 3,4.710988599999999,-74.072092,True
+415,1951-02-20,Medellin,Colombia,,,y,SIU Box 95 folder 3,6.244203,-75.5812119,False
+416,1951-02-21,Medellin,Colombia,Barranquilla,Colombia,n,SIU Box 39 folder 4; SIU Box 95 folder 3,6.244203,-75.5812119,True
+417,1951-02-22,Barranquilla,Colombia,,,y,SIU program; MHS Box 22 Personal Log; SIU Box 95 folder 3,11.0041072,-74.80698129999999,False
+418,1951-02-23,Barranquilla,Colombia,,,y,SIU program; MHS Box 22 Personal Log; SIU Box 95 folder 3,11.0041072,-74.80698129999999,True
+419,1951-02-24,Barranquilla,Colombia,Cartagena,Colombia,y,MHS Box 22 Personal Log,11.0041072,-74.80698129999999,True
+420,1951-02-25,Cartagena,Colombia,Barranquilla,Colombia,n,MHS Box 22 Personal Log,10.3910485,-75.4794257,False
+421,1951-02-26,Barranquilla,Colombia,,,n,MHS Box 22 Personal Log,11.0041072,-74.80698129999999,False
+422,1951-02-27,Barranquilla,Colombia,,,n,MHS Box 22 Personal Log,11.0041072,-74.80698129999999,True
+423,1951-02-28,Barranquilla,Colombia,Caracas,Venezuela,n,MHS Box 22 Personal Log,11.0041072,-74.80698129999999,True
+424,1951-03-01,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,False
+425,1951-03-02,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,True
+426,1951-03-03,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,True
+427,1951-03-04,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,True
+428,1951-03-05,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,True
+429,1951-03-06,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,True
+430,1951-03-07,Caracas,Venezuela,,,y,MHS Box 22 Personal Log,10.4805937,-66.90360629999999,True
+431,1951-03-08,Caracas,Venezuela,,,y,MHS Box 22 Personal Log,10.4805937,-66.90360629999999,True
+432,1951-03-09,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,True
+433,1951-03-10,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,True
+434,1951-03-11,Caracas,Venezuela,,,y,"SIU program, MHS Box 22 Personal Log",10.4805937,-66.90360629999999,True
+435,1951-03-12,Caracas,Venezuela,Kingston,Jamaica,n,,10.4805937,-66.90360629999999,True
+436,1951-03-13,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,False
+437,1951-03-14,Kingston,Jamaica,Petion-Ville,Haiti,n,,18.0178743,-76.8099041,True
+438,1951-03-15,Petion-Ville,Haiti,,,y,,18.5138139,-72.2881907,False
+439,1951-03-16,Petion-Ville,Haiti,,,y,SIU Box 39 folder 4,18.5138139,-72.2881907,True
+440,1951-03-17,Petion-Ville,Haiti,,,y,SIU Box 39 folder 4,18.5138139,-72.2881907,True
+441,1951-03-18,Petion-Ville,Haiti,,,y,SIU Box 39 folder 4,18.5138139,-72.2881907,True
+442,1951-03-19,Petion-Ville,Haiti,Kingston,Jamaica,n,SIU Box 39 folder 4,18.5138139,-72.2881907,True
+443,1951-03-20,Kingston,Jamaica,,,n,SIU Box 39 folder 4,18.0178743,-76.8099041,False
+444,1951-03-21,Kingston,Jamaica,,,n,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+445,1951-03-22,Kingston,Jamaica,,,n,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+446,1951-03-23,Kingston,Jamaica,,,n,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+447,1951-03-24,Kingston,Jamaica,,,n,SIU Box 16 folder 7,18.0178743,-76.8099041,True
+448,1951-03-25,Kingston,Jamaica,,,n,SIU Box 16 folder 7; Box 39 folder 4,18.0178743,-76.8099041,True
+449,1951-03-26,Kingston,Jamaica,,,n,SIU Box 16 folder 7; Box 39 folder 4,18.0178743,-76.8099041,True
+450,1951-03-27,Kingston,Jamaica,,,n,SIU Box 16 folder 7; Box 39 folder 4,18.0178743,-76.8099041,True
+451,1951-03-28,Kingston,Jamaica,,,n,SIU Box 16 folder 7; Box 39 folder 4,18.0178743,-76.8099041,True
+452,1951-03-29,Kingston,Jamaica,,,y,"SIU program, MHS Box 22 Personal Log",18.0178743,-76.8099041,True
+453,1951-03-30,Kingston,Jamaica,,,y,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+454,1951-03-31,Kingston,Jamaica,,,n,SIU Box 39 folder 4; NYT,18.0178743,-76.8099041,True
+455,1951-04-01,Kingston,Jamaica,,,n,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+456,1951-04-02,Kingston,Jamaica,,,n,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+457,1951-04-03,Kingston,Jamaica,,,n,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+458,1951-04-04,Kingston,Jamaica,,,n,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+459,1951-04-05,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+460,1951-04-06,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+461,1951-04-07,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+462,1951-04-08,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+463,1951-04-09,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+464,1951-04-10,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+465,1951-04-11,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+466,1951-04-12,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+467,1951-04-13,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+468,1951-04-14,Kingston,Jamaica,,,n,,18.0178743,-76.8099041,True
+469,1951-04-15,Kingston,Jamaica,Port au Prince,Haiti,n,SIU Box 39 folder 4,18.0178743,-76.8099041,True
+470,1951-04-16,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,False
+471,1951-04-17,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+472,1951-04-18,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+473,1951-04-19,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+474,1951-04-20,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+475,1951-04-21,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+476,1951-04-22,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+477,1951-04-23,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+478,1951-04-24,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+479,1951-04-25,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+480,1951-04-26,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+481,1951-04-27,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+482,1951-04-28,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+483,1951-04-29,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+484,1951-04-30,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+485,1951-05-01,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+486,1951-05-02,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+487,1951-05-03,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+488,1951-05-04,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+489,1951-05-05,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+490,1951-05-06,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+491,1951-05-07,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+492,1951-05-08,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+493,1951-05-09,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+494,1951-05-10,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+495,1951-05-11,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+496,1951-05-12,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+497,1951-05-13,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+498,1951-05-14,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+499,1951-05-15,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+500,1951-05-16,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+501,1951-05-17,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+502,1951-05-18,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+503,1951-05-19,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+504,1951-05-20,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+505,1951-05-21,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+506,1951-05-22,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+507,1951-05-23,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+508,1951-05-24,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+509,1951-05-25,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+510,1951-05-26,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+511,1951-05-27,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+512,1951-05-28,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+513,1951-05-29,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+514,1951-05-30,Port au Prince,Haiti,,,n,SIU Box 15 folder 7,18.594395,-72.3074326,True
+515,1951-05-31,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+516,1951-06-01,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+517,1951-06-02,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+518,1951-06-03,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+519,1951-06-04,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+520,1951-06-05,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+521,1951-06-06,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+522,1951-06-07,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+523,1951-06-08,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+524,1951-06-09,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+525,1951-06-10,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+526,1951-06-11,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+527,1951-06-12,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+528,1951-06-13,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+529,1951-06-14,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+530,1951-06-15,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+531,1951-06-16,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+532,1951-06-17,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+533,1951-06-18,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+534,1951-06-19,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+535,1951-06-20,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+536,1951-06-21,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+537,1951-06-22,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+538,1951-06-23,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+539,1951-06-24,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+540,1951-06-25,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+541,1951-06-26,Port au Prince,Haiti,,,n,,,,True
+542,1951-06-27,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+543,1951-06-28,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+544,1951-06-29,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+545,1951-06-30,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+546,1951-07-01,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+547,1951-07-02,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+548,1951-07-03,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+549,1951-07-04,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+550,1951-07-05,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+551,1951-07-06,Port au Prince,Haiti,,,n,,18.594395,-72.3074326,True
+552,1951-07-07,Port-au-Prince,Haiti,,,y,"SIU program, MHS Box 22 Personal Log",18.594395,-72.3074326,False
+553,1951-07-08,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+554,1951-07-09,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+555,1951-07-10,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+556,1951-07-11,Port-au-Prince,Haiti,,,y,SIU Box 15 folder 8,18.594395,-72.3074326,True
+557,1951-07-12,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+558,1951-07-13,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+559,1951-07-14,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+560,1951-07-15,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+561,1951-07-16,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+562,1951-07-17,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+563,1951-07-18,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+564,1951-07-19,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+565,1951-07-20,Port-au-Prince,Haiti,,,y,FBI file,18.594395,-72.3074326,True
+566,1951-07-21,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+567,1951-07-22,Port-au-Prince,Haiti,,,y,MHS Box 22 Personal Log,18.594395,-72.3074326,True
+568,1951-07-23,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+569,1951-07-24,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+570,1951-07-25,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+571,1951-07-26,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+572,1951-07-27,Port-au-Prince,Haiti,,,y,,18.594395,-72.3074326,True
+573,1951-07-28,Port-au-Prince,Haiti,,,y,"SIU program, MHS Box 22 Personal Log",18.594395,-72.3074326,True
+574,1951-07-29,Port-au-Prince,Haiti,Mexico City,Mexico,n,SIU Box 15 folder 8,,,True
+575,1951-07-30,Mexico City,Mexico,Guadalajara,Mexico,n,,19.4326077,-99.133208,False
+576,1951-07-31,Guadalajara,Mexico,,,y,,20.6596988,-103.3496092,False
+577,1951-08-01,Guadalajara,Mexico,,,y,SIU Bic 15 folder 8,20.6596988,-103.3496092,True
+578,1951-08-02,Guadalajara,Mexico,,,y,SIU Bic 15 folder 8,20.6596988,-103.3496092,True
+579,1951-08-03,Guadalajara,Mexico,,,y,,20.6596988,-103.3496092,True
+580,1951-08-04,Guadalajara,Mexico,,,y,,20.6596988,-103.3496092,True
+581,1951-08-05,Guadalajara,Mexico,,,y,,20.6596988,-103.3496092,True
+582,1951-08-06,Guadalajara,Mexico,,,y,,20.6596988,-103.3496092,True
+583,1951-08-07,Guadalajara,Mexico,,,y,,20.6596988,-103.3496092,True
+584,1951-08-08,Guadalajara,Mexico,,,y,,20.6596988,-103.3496092,True
+585,1951-08-09,Guadalajara,Mexico,,,y,,20.6596988,-103.3496092,True
+586,1951-08-10,Guadalajara,Mexico,Mexico City,Mexico,n,,20.6596988,-103.3496092,True
+587,1951-08-11,Mexico City,Mexico,Las Vegas,USA,n,,19.4326077,-99.133208,False
+588,1951-08-12,Las Vegas,USA,,,y,,36.1699412,-115.1398296,False
+589,1951-08-13,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+590,1951-08-14,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+591,1951-08-15,Las Vegas,USA,,,y,SIU Box 15 folder 8; Variety,36.1699412,-115.1398296,True
+592,1951-08-16,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+593,1951-08-17,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+594,1951-08-18,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+595,1951-08-19,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+596,1951-08-20,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+597,1951-08-21,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+598,1951-08-22,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+599,1951-08-23,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+600,1951-08-24,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+601,1951-08-25,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+602,1951-08-26,Las Vegas,USA,,,y,SIU Box 15 folder 8; Variety,36.1699412,-115.1398296,True
+603,1951-08-27,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+604,1951-08-28,Las Vegas,USA,,,y,SIU Box 15 folder 9,36.1699412,-115.1398296,True
+605,1951-08-29,Las Vegas,USA,Reno,USA,n,,36.1699412,-115.1398296,True
+606,1951-08-30,Reno,USA,,,y,SIU Box 15 folder 8,39.5296329,-119.8138027,False
+607,1951-08-31,Reno,USA,,,y,,39.5296329,-119.8138027,True
+608,1951-09-01,Reno,USA,,,y,,39.5296329,-119.8138027,True
+609,1951-09-02,Reno,USA,,,y,,39.5296329,-119.8138027,True
+610,1951-09-03,Reno,USA,,,y,,39.5296329,-119.8138027,True
+611,1951-09-04,Reno,USA,,,y,,39.5296329,-119.8138027,True
+612,1951-09-05,Reno,USA,,,y,,39.5296329,-119.8138027,True
+613,1951-09-06,Reno,USA,,,y,,39.5296329,-119.8138027,True
+614,1951-09-07,Reno,USA,,,y,MHS Box 22 Personal Log; SIU Box 15 folder 8,39.5296329,-119.8138027,True
+615,1951-09-08,,,,,,,35.2109787,-101.8667601,False
+616,1951-09-09,,,,,,,35.2109787,-101.8667601,False
+617,1951-09-10,,,,,,,35.2109787,-101.8667601,False
+618,1951-09-11,,,,,,,35.2109787,-101.8667601,False
+619,1951-09-12,,,,,,SIU Box 16 folder 4,36.0545737,-95.923037,False
+620,1951-09-13,,,,,,,35.2109787,-101.8667601,False
+621,1951-09-14,,,,,,,35.2109787,-101.8667601,False
+622,1951-09-15,,,,,,,35.2109787,-101.8667601,False
+623,1951-09-16,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,False
+624,1951-09-17,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+625,1951-09-18,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+626,1951-09-19,Hollywood,USA,,,y,"MHS Box 22 Personal Log; SIU Box 15, folder 9",34.0928092,-118.3286614,True
+627,1951-09-20,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+628,1951-09-21,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+629,1951-09-22,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+630,1951-09-23,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+631,1951-09-24,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+632,1951-09-25,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+633,1951-09-26,Hollywood,USA,,,y,SIU Box 15 folder 8,34.0928092,-118.3286614,True
+634,1951-09-27,,,,,,,35.2109787,-101.8667601,False
+635,1951-09-28,,,,,,,35.2109787,-101.8667601,False
+636,1951-09-29,,,,,,,35.2109787,-101.8667601,False
+637,1951-09-30,,,,,,,35.2109787,-101.8667601,False
+638,1951-10-01,,,,,,,35.2109787,-101.8667601,False
+639,1951-10-02,New York,USA,,,y,"SIU Box 15, folder 9",40.7127753,-74.0059728,False
+640,1951-10-03,New York,USA,,,n,,40.7127753,-74.0059728,True
+641,1951-10-04,New York,USA,,,n,SIU Box 15 folder 8,40.7127753,-74.0059728,True
+642,1951-10-05,,,,,n,,36.0545737,-95.923037,False
+643,1951-10-06,New York,USA,Gander,Newfoundland,n,SIU Box 39 folder 4; flight manifest; Air France 1950 timetable,40.7127753,-74.0059728,False
+644,1951-10-07,Gander,Newfoundland,Paris ,France,n,,48.954408,-54.6103488,False
+645,1951-10-08,Paris,France,,,n,,48.856614,2.3522219,False
+646,1951-10-09,Paris,France,,,n,,48.856614,2.3522219,True
+647,1951-10-10,Paris,France,,,n,,48.856614,2.3522219,True
+648,1951-10-11,Paris,France,,,n,,48.856614,2.3522219,True
+649,1951-10-12,Paris,France,,,n,,48.856614,2.3522219,True
+650,1951-10-13,Paris,France,,,n,,48.856614,2.3522219,True
+651,1951-10-14,Paris,France,,,n,,48.856614,2.3522219,True
+652,1951-10-15,Paris,France,,,n,,48.856614,2.3522219,True
+653,1951-10-16,Paris,France,,,n,,48.856614,2.3522219,True
+654,1951-10-17,Paris,France,,,n,,48.856614,2.3522219,True
+655,1951-10-18,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+656,1951-10-19,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+657,1951-10-20,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+658,1951-10-21,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+659,1951-10-22,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+660,1951-10-23,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+661,1951-10-24,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+662,1951-10-25,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+663,1951-10-26,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+664,1951-10-27,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+665,1951-10-28,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+666,1951-10-29,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+667,1951-10-30,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+668,1951-10-31,Paris,France,,,y,SIU Box 15 folder 9,48.856614,2.3522219,True
+669,1951-11-01,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+670,1951-11-02,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+671,1951-11-03,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+672,1951-11-04,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+673,1951-11-05,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+674,1951-11-06,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+675,1951-11-07,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+676,1951-11-08,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+677,1951-11-09,Paris,France,,,y,MHS Box 22 Personal Log,,,True
+678,1951-11-10,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+679,1951-11-11,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+680,1951-11-12,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+681,1951-11-13,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+682,1951-11-14,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+683,1951-11-15,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+684,1951-11-16,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+685,1951-11-17,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+686,1951-11-18,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+687,1951-11-19,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+688,1951-11-20,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+689,1951-11-21,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+690,1951-11-22,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+691,1951-11-23,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+692,1951-11-24,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+693,1951-11-25,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+694,1951-11-26,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+695,1951-11-27,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+696,1951-11-28,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+697,1951-11-29,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+698,1951-11-30,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+699,1951-12-01,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+700,1951-12-02,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+701,1951-12-03,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+702,1951-12-04,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+703,1951-12-05,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+704,1951-12-06,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+705,1951-12-07,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+706,1951-12-08,Paris,France,,,y,MHS Box 22 Personal Log; SIU Box 15 folder 9,48.856614,2.3522219,True
+707,1951-12-09,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+708,1951-12-10,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+709,1951-12-11,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+710,1951-12-12,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+711,1951-12-13,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+712,1951-12-14,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+713,1951-12-15,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+714,1951-12-16,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+715,1951-12-17,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+716,1951-12-18,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+717,1951-12-19,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+718,1951-12-20,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+719,1951-12-21,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+720,1951-12-22,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+721,1951-12-23,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+722,1951-12-24,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+723,1951-12-25,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+724,1951-12-26,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+725,1951-12-27,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+726,1951-12-28,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+727,1951-12-29,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+728,1951-12-30,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+729,1951-12-31,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+730,1952-01-01,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,True
+731,1952-01-02,Paris,France,,,n,MHS Box 22 Personal Log,48.856614,2.3522219,True
+732,1952-01-03,Paris,France,,,n,MHS Box 22 Personal Log,48.856614,2.3522219,True
+733,1952-01-04,Paris,France,London ,England,n,MHS Box 22 Personal Log,48.856614,2.3522219,True
+734,1952-01-05,London,England,,,y,MHS Box 22 Personal Log; SIU Box 16 folder 1,51.5073509,-0.1277583,False
+735,1952-01-06,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+736,1952-01-07,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+737,1952-01-08,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+738,1952-01-09,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+739,1952-01-10,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+740,1952-01-11,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+741,1952-01-12,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+742,1952-01-13,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+743,1952-01-14,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+744,1952-01-15,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+745,1952-01-16,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+746,1952-01-17,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+747,1952-01-18,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+748,1952-01-19,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+749,1952-01-20,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+750,1952-01-21,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+751,1952-01-22,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+752,1952-01-23,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+753,1952-01-24,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+754,1952-01-25,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+755,1952-01-26,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+756,1952-01-27,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+757,1952-01-28,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+758,1952-01-29,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+759,1952-01-30,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+760,1952-01-31,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+761,1952-02-01,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+762,1952-02-02,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+763,1952-02-03,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+764,1952-02-04,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+765,1952-02-05,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+766,1952-02-06,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+767,1952-02-07,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+768,1952-02-08,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+769,1952-02-09,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+770,1952-02-10,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+771,1952-02-11,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+772,1952-02-12,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+773,1952-02-13,London,England,,,y,MHS Box 22 Personal Log; SIU Box 16 folder 1,51.5073509,-0.1277583,True
+774,1952-02-14,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+775,1952-02-15,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+776,1952-02-16,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+777,1952-02-17,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+778,1952-02-18,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+779,1952-02-19,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+780,1952-02-20,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+781,1952-02-21,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+782,1952-02-22,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+783,1952-02-23,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+784,1952-02-24,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+785,1952-02-25,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+786,1952-02-26,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+787,1952-02-27,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+788,1952-02-28,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+789,1952-02-29,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+790,1952-03-01,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+791,1952-03-02,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+792,1952-03-03,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+793,1952-03-04,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+794,1952-03-05,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+795,1952-03-06,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+796,1952-03-07,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+797,1952-03-08,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+798,1952-03-09,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+799,1952-03-10,London,England,,,y,MHS Box 22 Personal Log; SIU Box 39 folder 4,51.5073509,-0.1277583,True
+800,1952-03-11,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+801,1952-03-12,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+802,1952-03-13,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+803,1952-03-14,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+804,1952-03-15,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+805,1952-03-16,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+806,1952-03-17,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+807,1952-03-18,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+808,1952-03-19,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+809,1952-03-20,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+810,1952-03-21,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+811,1952-03-22,London,England,,,y,MHS Box 22 Personal Log,,,True
+812,1952-03-23,London,England,,,y,MHS Box 22 Personal Log,,,True
+813,1952-03-24,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+814,1952-03-25,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+815,1952-03-26,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+816,1952-03-27,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+817,1952-03-28,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+818,1952-03-29,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+819,1952-03-30,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+820,1952-03-31,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+821,1952-04-01,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+822,1952-04-02,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+823,1952-04-03,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+824,1952-04-04,London,England,,,y,MHS Box 22 Personal Log; SIU Box 16 folder 1,51.5073509,-0.1277583,True
+825,1952-04-05,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+826,1952-04-06,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+827,1952-04-07,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+828,1952-04-08,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+829,1952-04-09,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+830,1952-04-10,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+831,1952-04-11,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+832,1952-04-12,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+833,1952-04-13,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+834,1952-04-14,London,England,,,y,MHS Box 22 Personal Log; SIU Box 39 folder 4,51.5073509,-0.1277583,True
+835,1952-04-15,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+836,1952-04-16,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+837,1952-04-17,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+838,1952-04-18,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+839,1952-04-19,London,England,,,y,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+840,1952-04-20,London,England,,,n,MHS Box 22 Personal Log,51.5073509,-0.1277583,True
+841,1952-04-21,Cairnryan,Scotland,Belfast,Northern Ireland,y,SIU program; MHS Box 22 Personal Log,54.976479,-5.0268868,False
+842,1952-04-22,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,False
+843,1952-04-23,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+844,1952-04-24,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+845,1952-04-25,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+846,1952-04-26,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+847,1952-04-27,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+848,1952-04-28,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log; MHS Box 56 Clippings,54.59728500000001,-5.93012,True
+849,1952-04-29,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+850,1952-04-30,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+851,1952-05-01,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+852,1952-05-02,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log; SIU Box 39 folder 4,54.59728500000001,-5.93012,True
+853,1952-05-03,Belfast,Northern Ireland,,,y,SIU program; MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+854,1952-05-04,Belfast,Northern Ireland,Dublin,Ireland,n,MHS Box 22 Personal Log,54.59728500000001,-5.93012,True
+855,1952-05-05,Dublin,Ireland,,,y,MHS Box 22 Personal Log,53.3498053,-6.2603097,False
+856,1952-05-06,Dublin,Ireland,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,53.3498053,-6.2603097,True
+857,1952-05-07,Dublin,Ireland,,,y,MHS Box 22 Personal Log,53.3498053,-6.2603097,True
+858,1952-05-08,Dublin,Ireland,,,y,MHS Box 22 Personal Log,53.3498053,-6.2603097,True
+859,1952-05-09,Dublin,Ireland,,,y,MHS Box 22 Personal Log,53.3498053,-6.2603097,True
+860,1952-05-10,Dublin,Ireland,,,y,MHS Box 22 Personal Log,53.3498053,-6.2603097,True
+861,1952-05-11,Dublin,Ireland,London,England,n,MHS Box 22 Personal Log,53.3498053,-6.2603097,True
+862,1952-05-12,London,England,Bournemouth,England,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,51.5073509,-0.1277583,False
+863,1952-05-13,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,False
+864,1952-05-14,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+865,1952-05-15,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+866,1952-05-16,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+867,1952-05-17,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+868,1952-05-18,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+869,1952-05-19,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+870,1952-05-20,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+871,1952-05-21,Bournemouth,England,,,y,MHS Box 22 Personal Log; SIU Box 39 folder 4,50.719164,-1.880769,True
+872,1952-05-22,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+873,1952-05-23,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+874,1952-05-24,Bournemouth,England,,,y,MHS Box 22 Personal Log,50.719164,-1.880769,True
+875,1952-05-25,Bournemouth,England,Nottingham,England,n,MHS Box 22 Personal Log,50.719164,-1.880769,True
+876,1952-05-26,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,False
+877,1952-05-27,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+878,1952-05-28,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+879,1952-05-29,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+880,1952-05-30,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+881,1952-05-31,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+882,1952-06-01,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+883,1952-06-02,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+884,1952-06-03,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings; SIU Box 39 folder 4,52.95478319999999,-1.1581086,True
+885,1952-06-04,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+886,1952-06-05,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+887,1952-06-06,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+888,1952-06-07,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+889,1952-06-08,Nottingham,England,,,y,MHS Box 22 Personal Log; MHS Box 56 Clippings,52.95478319999999,-1.1581086,True
+890,1952-06-09,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,False
+891,1952-06-10,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log; MHS Box 56 Clippings",52.48624299999999,-1.890401,True
+892,1952-06-11,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+893,1952-06-12,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+894,1952-06-13,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+895,1952-06-14,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log; SIU Box 39 folder 4",52.48624299999999,-1.890401,True
+896,1952-06-15,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+897,1952-06-16,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+898,1952-06-17,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+899,1952-06-18,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+900,1952-06-19,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+901,1952-06-20,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log",52.48624299999999,-1.890401,True
+902,1952-06-21,Birmingham,England,,,y,"SIU program, MHS Box 22 Personal Log; SIU Box 16 folder 1",52.48624299999999,-1.890401,True
+903,1952-06-22,Birmingham,England,Bristol,England,n,,52.48624299999999,-1.890401,True
+904,1952-06-23,Bristol,England,,,y,SIU program,51.454513,-2.58791,False
+905,1952-06-24,Bristol,England,,,y,SIU program; MHS Box 56 Clippings,51.454513,-2.58791,True
+906,1952-06-25,Bristol,England,,,y,SIU program,51.454513,-2.58791,True
+907,1952-06-26,Bristol,England,,,y,SIU program,51.454513,-2.58791,True
+908,1952-06-27,Bristol,England,,,y,SIU program; SIU Box 39 folder 4,51.454513,-2.58791,True
+909,1952-06-28,Bristol,England,,,y,"SIU program, MHS Box 22 Personal Log",51.454513,-2.58791,True
+910,1952-06-29,Bristol,England,,,y,"SIU program, MHS Box 22 Personal Log",51.454513,-2.58791,True
+911,1952-06-30,Bristol,England,,,y,SIU program,51.454513,-2.58791,True
+912,1952-07-01,Bristol,England,,,y,SIU program; SIU Box 39 folder 4,51.454513,-2.58791,True
+913,1952-07-02,Bristol,England,,,y,SIU program,51.454513,-2.58791,True
+914,1952-07-03,Bristol,England,,,y,SIU program,51.454513,-2.58791,True
+915,1952-07-04,Bristol,England,,,y,SIU program,51.454513,-2.58791,True
+916,1952-07-05,Bristol,England,,,y,SIU program,51.454513,-2.58791,True
+917,1952-07-06,Bristol,England,London,England,n,,51.454513,-2.58791,True
+918,1952-07-07,London,England,,,n,,51.5073509,-0.1277583,False
+919,1952-07-08,London,England,,,n,SIU Box 16 folder 2,51.5073509,-0.1277583,True
+920,1952-07-09,London,England,Copenhagen,Denmark,n,,51.5073509,-0.1277583,True
+921,1952-07-10,Copenhagen,Denmark,,,y,SIU Box 16 folder 2,55.6760968,12.5683372,False
+922,1952-07-11,Copenhagen,Denmark,,,y,,55.6760968,12.5683372,True
+923,1952-07-12,Copenhagen,Denmark,,,y,,55.6760968,12.5683372,True
+924,1952-07-13,Copenhagen,Denmark,,,y,,55.6760968,12.5683372,True
+925,1952-07-14,Copenhagen,Denmark,,,y,,55.6760968,12.5683372,True
+926,1952-07-15,Copenhagen,Denmark,,,y,,55.6760968,12.5683372,True
+927,1952-07-16,Copenhagen,Denmark,,,y,,55.6760968,12.5683372,True
+928,1952-07-17,Copenhagen,Denmark,,,y,,55.6760968,12.5683372,True
+929,1952-07-18,Copenhagen,Denmark,,,y,SIU Box 39 folder 4; SIU Box 16 folder 2,55.6760968,12.5683372,True
+930,1952-07-19,Copenhagen,Denmark,,,y,SIU Box 39 folder 4,55.6760968,12.5683372,True
+931,1952-07-20,Copenhagen,Denmark,,,y,SIU Box 39 folder 4; SIU Box 16 folder 2,55.6760968,12.5683372,True
+932,1952-07-21,Copenhagen,Denmark,,,y,SIU Box 39 folder 4,55.6760968,12.5683372,True
+933,1952-07-22,Copenhagen,Denmark,,,y,SIU Box 39 folder 4,55.6760968,12.5683372,True
+934,1952-07-23,Copenhagen,Denmark,,,y,SIU Box 39 folder 4,55.6760968,12.5683372,True
+935,1952-07-24,Copenhagen,Denmark,,,y,SIU Box 39 folder 4; SIU Box 16 folder 2,55.6760968,12.5683372,True
+936,1952-07-25,Copenhagen,Denmark,,,y,SIU Box 39 folder 4; SIU Box 16 folder 2,55.6760968,12.5683372,True
+937,1952-07-26,Copenhagen,Denmark,,,y,MHS Box 56 Clippings,55.6760968,12.5683372,True
+938,1952-07-27,Copenhagen,Denmark,,,y,MHS Box 56 Clippings,55.6760968,12.5683372,True
+939,1952-07-28,Copenhagen,Denmark,,,y,MHS Box 56 Clippings,55.6760968,12.5683372,True
+940,1952-07-29,Copenhagen,Denmark,,,y,MHS Box 56 Clippings,55.6760968,12.5683372,True
+941,1952-07-30,Copenhagen,Denmark,,,y,MHS Box 56 Clippings,55.6760968,12.5683372,True
+942,1952-07-31,Copenhagen,Denmark,,,y,MHS Box 56 Clippings,55.6760968,12.5683372,True
+943,1952-08-01,Copenhagen,Denmark,,,y,MHS Box 56 Clippings; SIU Box 16 folder 2,55.6760968,12.5683372,True
+944,1952-08-02,Copenhagen,Denmark,,,y,MHS Box 56 Clippings; SIU Box 16 folder 2,55.6760968,12.5683372,True
+945,1952-08-03,Copenhagen,Denmark,Paris,France,n,SIU Box 39 folder 4; SIU Box 16 folder 2,55.6760968,12.5683372,True
+946,1952-08-04,Paris,France,,,n,SIU Box 39 folder 4; SIU Box 16 folder 2,48.856614,2.3522219,False
+947,1952-08-05,Paris,France,,,n,SIU Box 39 folder 4,48.856614,2.3522219,True
+948,1952-08-06,Paris,France,,,n,SIU Box 39 folder 4,48.856614,2.3522219,True
+949,1952-08-07,Paris,France,,,n,SIU Box 39 folder 4,48.856614,2.3522219,True
+950,1952-08-08,Paris,France,,,n,SIU Box 39 folder 4,48.856614,2.3522219,True
+951,1952-08-09,Paris,France,,,n,SIU Box 39 folder 4; SIU Box 16 folder 2,48.856614,2.3522219,True
+952,1952-08-10,Paris,France,Vichy,France,n,SIU Box 39 folder 4;  SIU Box 16 folder 2,48.856614,2.3522219,True
+953,1952-08-11,Vichy,France,,,y,,46.131859,3.425488,False
+954,1952-08-12,Vichy,France,,,,,46.131859,3.425488,True
+955,1952-08-13,,France,,,,,46.227638,2.213749,False
+956,1952-08-14,,France,,,,,46.227638,2.213749,False
+957,1952-08-15,,France,,,,,46.227638,2.213749,False
+958,1952-08-16,Juan-les-Pins,France,,,y,SIU Box 16 folder 2,43.5691905,7.1123854,False
+959,1952-08-17,,France,,,,,46.227638,2.213749,False
+960,1952-08-18,Marseille?,France,,,,,43.296482,5.36978,False
+961,1952-08-19,,France,,,,,46.227638,2.213749,False
+962,1952-08-20,Nice,France,,,,,43.7101728,7.261953200000001,False
+963,1952-08-21,,France,,,,,46.227638,2.213749,False
+964,1952-08-22,,France,,,,,46.227638,2.213749,False
+965,1952-08-23,Arachon,France,,,y,SIU program; SIU Box 16 folder 2,44.652297,-1.1785016,False
+966,1952-08-24,Arachon,France,,,,SIU program; SIU Box 16 folder 3,44.652297,-1.1785016,True
+967,1952-08-25,,France,,,,,46.227638,2.213749,False
+968,1952-08-26,Biarritz,France,,,,SIU Box 16 folder 2,43.4831519,-1.558626,False
+969,1952-08-27,Biarritz,France,,,y,MHS Box 56 Clippings,43.4831519,-1.558626,True
+970,1952-08-28,Biarritz,France,,,y,MHS Box 56 Clippings,43.4831519,-1.558626,True
+971,1952-08-29,Biarritz,France,,,y,MHS Box 56 Clippings; SIU Box 39 folder 4; SIU Box 16 folder 2,43.4831519,-1.558626,True
+972,1952-08-30,Biarritz,France,,,y,MHS Box 56 Clippings,43.4831519,-1.558626,True
+973,1952-08-31,,,,,,,35.2109787,-101.8667601,False
+974,1952-09-01,Dax,France,,,,SIU Box 16 folder 2,43.708608,-1.051945,False
+975,1952-09-02,,,,,,,35.2109787,-101.8667601,False
+976,1952-09-03,,,,,,,35.2109787,-101.8667601,False
+977,1952-09-04,,,,,,,35.2109787,-101.8667601,False
+978,1952-09-05,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+979,1952-09-06,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+980,1952-09-07,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+981,1952-09-08,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+982,1952-09-09,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+983,1952-09-10,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+984,1952-09-11,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+985,1952-09-12,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+986,1952-09-13,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+987,1952-09-14,,,,,,MHS Box 56 Clippings,36.0545737,-95.923037,False
+988,1952-09-15,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,False
+989,1952-09-16,Barcelona,Spain,,,y,MHS Box 56 Clippings; Box 39 folder 4,41.3850639,2.1734035,True
+990,1952-09-17,Barcelona,Spain,,,y,MHS Box 56 Clippings; Box 39 folder 4,41.3850639,2.1734035,True
+991,1952-09-18,Barcelona,Spain,,,y,MHS Box 56 Clippings; Box 39 folder 4,41.3850639,2.1734035,True
+992,1952-09-19,Barcelona,Spain,,,y,MHS Box 56 Clippings; Box 39 folder 4,41.3850639,2.1734035,True
+993,1952-09-20,Barcelona,Spain,,,y,MHS Box 56 Clippings; SIU Box 16 folder 2,41.3850639,2.1734035,True
+994,1952-09-21,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,True
+995,1952-09-22,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,True
+996,1952-09-23,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,True
+997,1952-09-24,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,True
+998,1952-09-25,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,True
+999,1952-09-26,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,True
+1000,1952-09-27,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,True
+1001,1952-09-28,Barcelona,Spain,,,y,MHS Box 56 Clippings,41.3850639,2.1734035,True
+1002,1952-09-29,Barcelona,Spain,,,n,,41.3850639,2.1734035,True
+1003,1952-09-30,Barcelona,Spain,Ventimiglia,Italy,n,,41.3850639,2.1734035,True
+1004,1952-10-01,Ventimiglia,Italy,Milan,Italy,n,,43.7912366,7.6075864,False
+1005,1952-10-02,Milan,Italy,,,y,,45.4642035,9.189982,False
+1006,1952-10-03,Milan,Italy,,,y,SIU Box 16 folder 2,45.4642035,9.189982,True
+1007,1952-10-04,Milan,Italy,,,y,SIU Box 39 folder 4,45.4642035,9.189982,True
+1008,1952-10-05,Milan,Italy,,,y,SIU Box 39 folder 4,45.4642035,9.189982,True
+1009,1952-10-06,Milan,Italy,,,y,SIU Box 39 folder 4,45.4642035,9.189982,True
+1010,1952-10-07,Milan,Italy,,,y,MHS Box 22 Personal Log; SIU Box 39 folder 4,45.4642035,9.189982,True
+1011,1952-10-08,Milan,Italy,,,y,SIU Box 39 folder 4,45.4642035,9.189982,True
+1012,1952-10-09,Milan,Italy,,,y,SIU Box 39 folder 4,45.4642035,9.189982,True
+1013,1952-10-10,Milan,Italy,,,y,SIU Box 39 folder 4,45.4642035,9.189982,True
+1014,1952-10-11,Milan,Italy,,,y,SIU Box 39 folder 4; FBI file,45.4642035,9.189982,True
+1015,1952-10-12,Milan,Italy,,,y,SIU Box 39 folder 4,45.4642035,9.189982,True
+1016,1952-10-13,Milan,Italy,Rome,Italy,n,,45.4642035,9.189982,True
+1017,1952-10-14,Rome,Italy,,,y,SIU Box 39 folder 4,41.9027835,12.4963655,False
+1018,1952-10-15,Rome,Italy,,,y,SIU Box 39 folder 4,41.9027835,12.4963655,True
+1019,1952-10-16,Rome,Italy,,,y,SIU Box 39 folder 4,41.9027835,12.4963655,True
+1020,1952-10-17,Rome,Italy,,,y,SIU Box 39 folder 4,41.9027835,12.4963655,True
+1021,1952-10-18,Rome,Italy,,,y,SIU Box 39 folder 4,41.9027835,12.4963655,True
+1022,1952-10-19,Rome,Italy,,,y,SIU Box 39 folder 4,41.9027835,12.4963655,True
+1023,1952-10-20,Rome,Italy,Palermo,Italy,n,,41.9027835,12.4963655,True
+1024,1952-10-21,Palermo,Italy,,,y,SIU program; SIU Box 39 folder 4,38.1156879,13.3612671,False
+1025,1952-10-22,Palermo,Italy,,,y,SIU program; SIU Box 39 folder 4,38.1156879,13.3612671,True
+1026,1952-10-23,Catania,Italy,,,y,SIU Box 39 folder 4,37.5078772,15.0830304,False
+1027,1952-10-24,Catania,Italy,Naples,Italy,n,,37.5078772,15.0830304,True
+1028,1952-10-25,Naples,Italy,,,y,SIU Box 39 folder 4,40.8517746,14.2681244,False
+1029,1952-10-26,Naples,Italy,,,y,SIU Box 39 folder 4,40.8517746,14.2681244,True
+1030,1952-10-27,Naples,Italy,Turin,Italy,n,,40.8517746,14.2681244,True
+1031,1952-10-28,Turin,Italy,,,y,SIU Box 39 folder 4,45.070312,7.686856499999999,False
+1032,1952-10-29,Turin,Italy,,,y,SIU Box 39 folder 4,45.070312,7.686856499999999,True
+1033,1952-10-30,Genoa,Italy,,,y,SIU Box 39 folder 4,44.4056499,8.946256,False
+1034,1952-10-31,Genoa,Italy,,,y,SIU Box 39 folder 4,44.4056499,8.946256,True
+1035,1952-11-01,"Santa Margherita, Genoa",Italy,,,n,SIU Box 39 folder 4,44.3254364,9.1954432,False
+1036,1952-11-02,"Santa Margherita, Genoa",Italy,,,n,SIU Box 39 folder 4,44.3254364,9.1954432,True
+1037,1952-11-03,"Santa Margherita, Genoa",Italy,,,n,SIU Box 39 folder 4,44.3254364,9.1954432,True
+1038,1952-11-04,"Santa Margherita, Genoa",Italy,Marseille,France,n,SIU Box 39 folder 4,44.3254364,9.1954432,True
+1039,1952-11-05,Marseille,France,,,y,SIU program; SIU Box 39 folder 4; SIU Box 16 folder 3,43.296482,5.36978,False
+1040,1952-11-06,Marseille,France,,,y,SIU Box 39 folder 4,43.296482,5.36978,True
+1041,1952-11-07,Marseille,France,,,y,MHS Box 22 Personal Log; SIU Box 39 folder 4,43.296482,5.36978,True
+1042,1952-11-08,Marseille,France,,,y,SIU Box 39 folder 4,43.296482,5.36978,True
+1043,1952-11-09,Marseille,France,,,y,SIU Box 39 folder 4,43.296482,5.36978,True
+1044,1952-11-10,Marseille,France,,,y,SIU Box 39 folder 4,43.296482,5.36978,True
+1045,1952-11-11,Marseille,France,,,y,SIU Box 39 folder 4,43.296482,5.36978,True
+1046,1952-11-12,Marseille,France,,,n,,43.296482,5.36978,True
+1047,1952-11-13,Marseille,France,Bern,Switzerland,n,,43.296482,5.36978,True
+1048,1952-11-14,Bern,Switzerland,,,n,,46.9479739,7.4474468,False
+1049,1952-11-15,Bern,Switzerland,,,y,SIU Box 16 folder 3,46.9479739,7.4474468,True
+1050,1952-11-16,Bern,Switzerland,,,y,SIU Box 16 folder 3,46.9479739,7.4474468,True
+1051,1952-11-17,Zurich,Switzerland,,,y,SIU Box 16 folder 3,47.3768866,8.541694,False
+1052,1952-11-18,Zurich,Switzerland,,,y,SIU Box 16 folder 3,47.3768866,8.541694,True
+1053,1952-11-19,Zurich,Switzerland,,,y,SIU Box 16 folder 3,47.3768866,8.541694,True
+1054,1952-11-20,Zurich,Switzerland,,,n,SIU Box 16 folder 3,47.3768866,8.541694,True
+1055,1952-11-21,,,,,n,,36.0545737,-95.923037,False
+1056,1952-11-22,Altreu,Switzerland,Lausanne,Switzerland,y,SIU Box 16 folder 3,47.205557,7.455571,False
+1057,1952-11-23,Lausanne,Switzerland,,,y,SIU Box 16 folder 3,46.5196535,6.6322734,False
+1058,1952-11-24,Basel,Switzerland,,,y,MHS Box 22 Personal Log; SIU Box 16 folder 3,47.5595986,7.5885761,False
+1059,1952-11-25,Basel,Switzerland,Rome,Italy,n,SIU Box 39 folder 4,47.5595986,7.5885761,True
+1060,1952-11-26,Rome,Italy,,,n,SIU Box 39 folder 4,41.9027835,12.4963655,False
+1061,1952-11-27,Rome,Italy,Sicily,Italy,n,SIU Box 39 folder 4,41.9027835,12.4963655,True
+1062,1952-11-28,Sicily,Italy,,,y,SIU Box 39 folder 4,37.5999938,14.0153557,False
+1063,1952-11-29,Palermo,Italy,,,y,"SIU program, MHS Box 22 Personal Log; SIU Box 16 folder 3",38.1156879,13.3612671,False
+1064,1952-11-30,Palermo,Italy,,,y,"SIU program, MHS Box 22 Personal Log; SIU Box 16 folder 3",38.1156879,13.3612671,True
+1065,1952-12-01,Palermo,Italy,Catania,Italy,y,MHS Box 22 Personal Log; SIU Box 16 folder 3,38.1156879,13.3612671,True
+1066,1952-12-02,Catania,Italy,,,n,SIU Box 16 folder 3,37.5078772,15.0830304,False
+1067,1952-12-03,,,Lecce,Italy,y,MHS Box 22 Personal Log,36.0545737,-95.923037,False
+1068,1952-12-04,Bari,Italy,,,y,MHS Box 22 Personal Log,41.1171432,16.8718715,False
+1069,1952-12-05,Bari,Italy,Naples,Italy,n,,41.1171432,16.8718715,True
+1070,1952-12-06,Naples,Italy,,,y,MHS Box 22 Personal Log,40.8517746,14.2681244,False
+1071,1952-12-07,Naples,Italy,,,y,MHS Box 22 Personal Log,40.8517746,14.2681244,True
+1072,1952-12-08,Naples,Italy,,,y,MHS Box 22 Personal Log,40.8517746,14.2681244,True
+1073,1952-12-09,Naples,Italy,Livorno,Italy,n,,40.8517746,14.2681244,True
+1074,1952-12-10,Livorno,Italy,,,y,MHS Box 22 Personal Log; SIU Box 16 folder 3,43.548473,10.3105674,False
+1075,1952-12-11,Florence,Italy,,,y,MHS Box 22 Personal Log,43.7695604,11.2558136,False
+1076,1952-12-12,Florence,Italy,Trieste,Italy,n,,43.7695604,11.2558136,True
+1077,1952-12-13,Trieste,Italy,,,y,MHS Box 22 Personal Log,45.6495264,13.7768182,False
+1078,1952-12-14,Trieste,Italy,,,y,MHS Box 22 Personal Log,45.6495264,13.7768182,True
+1079,1952-12-15,Trieste,Italy,Padova,Italy,n,,45.6495264,13.7768182,True
+1080,1952-12-16,Padova,Italy,,,y,MHS Box 22 Personal Log,45.4064349,11.8767611,False
+1081,1952-12-17,Brescia,Italy,,,y,MHS Box 22 Personal Log,45.5415526,10.2118019,False
+1082,1952-12-18,Varese,Italy,,,y,MHS Box 22 Personal Log,45.82059890000001,8.8250576,False
+1083,1952-12-19,Varese,Italy,Bergamo,Italy,n,,45.82059890000001,8.8250576,True
+1084,1952-12-20,Bergamo,Italy,,,y,MHS Box 22 Personal Log,45.6982642,9.6772698,False
+1085,1952-12-21,Bergamo,Italy,,,y,MHS Box 22 Personal Log,45.6982642,9.6772698,True
+1086,1952-12-22,Verona,Italy,,,y,MHS Box 22 Personal Log,45.43838419999999,10.9916215,False
+1087,1952-12-23,Verona,Italy,Bologna,Italy,n,,45.43838419999999,10.9916215,True
+1088,1952-12-24,Bologna,Italy,,,y,MHS Box 22 Personal Log,44.494887,11.3426162,False
+1089,1952-12-25,Bologna,Italy,,,y,MHS Box 22 Personal Log,44.494887,11.3426162,True
+1090,1952-12-26,Bologna,Italy,,,y,MHS Box 22 Personal Log,44.494887,11.3426162,True
+1091,1952-12-27,,,,,,,35.2109787,-101.8667601,False
+1092,1952-12-28,,,,,,,35.2109787,-101.8667601,False
+1093,1952-12-29,,,,,,,35.2109787,-101.8667601,False
+1094,1952-12-30,,,,,,,35.2109787,-101.8667601,False
+1095,1952-12-31,,,,,,,35.2109787,-101.8667601,False
+1096,1953-01-01,Rome,Italy,,,n,SIU Box 16 folder 4,41.9027835,12.4963655,False
+1097,1953-01-02,Rome,Italy,,,n,,41.9027835,12.4963655,True
+1098,1953-01-03,Rome,Italy,,,n,,41.9027835,12.4963655,True
+1099,1953-01-04,Rome,Italy,,,n,,41.9027835,12.4963655,True
+1100,1953-01-05,Rome,Italy,,,n,,41.9027835,12.4963655,True
+1101,1953-01-06,Rome,Italy,,,n,SIU Box 16 folder 4,41.9027835,12.4963655,True
+1102,1953-01-07,,,,,,,35.2109787,-101.8667601,False
+1103,1953-01-08,Paris,France,,,y,MHS Box 22 Personal Log,48.856614,2.3522219,False
+1104,1953-01-09,Paris,France,,,y,SIU Box 39 folder 5,48.856614,2.3522219,True
+1105,1953-01-10,Paris,France,,,y,,48.856614,2.3522219,True
+1106,1953-01-11,Paris,France,,,y,,48.856614,2.3522219,True
+1107,1953-01-12,Paris,France,,,y,,48.856614,2.3522219,True
+1108,1953-01-13,Paris,France,,,y,,48.856614,2.3522219,True
+1109,1953-01-14,Paris,France,,,y,,48.856614,2.3522219,True
+1110,1953-01-15,Paris,France,,,y,SIU Box 16 folder 4,48.856614,2.3522219,True
+1111,1953-01-16,Paris,France,,,y,,48.856614,2.3522219,True
+1112,1953-01-17,Paris,France,,,y,,48.856614,2.3522219,True
+1113,1953-01-18,Paris,France,,,y,,48.856614,2.3522219,True
+1114,1953-01-19,Paris,France,,,y,SIU Box 16 folder 4,48.856614,2.3522219,True
+1115,1953-01-20,Paris,France,,,y,,48.856614,2.3522219,True
+1116,1953-01-21,Paris,France,,,y,,48.856614,2.3522219,True
+1117,1953-01-22,Paris,France,,,y,,48.856614,2.3522219,True
+1118,1953-01-23,Paris,France,,,y,,48.856614,2.3522219,True
+1119,1953-01-24,Paris,France,,,y,SIU Box 16 folder 4,48.856614,2.3522219,True
+1120,1953-01-25,Paris,France,,,y,,48.856614,2.3522219,True
+1121,1953-01-26,Paris,France,,,y,,48.856614,2.3522219,True
+1122,1953-01-27,Paris,France,,,y,,48.856614,2.3522219,True
+1123,1953-01-28,Paris,France,,,y,SIU Box 16 folder 4,48.856614,2.3522219,True
+1124,1953-01-29,Paris,France,,,y,,48.856614,2.3522219,True
+1125,1953-01-30,Paris,France,,,y,SIU Box 39 folder 5,48.856614,2.3522219,True
+1126,1953-01-31,Paris,France,,,y,,48.856614,2.3522219,True
+1127,1953-02-01,Paris,France,,,y,,48.856614,2.3522219,True
+1128,1953-02-02,Paris,France,,,y,,48.856614,2.3522219,True
+1129,1953-02-03,Paris,France,,,y,,48.856614,2.3522219,True
+1130,1953-02-04,Paris,France,,,y,SIU Box 39 folder 5; SIU Box 16 folder 4,48.856614,2.3522219,True
+1131,1953-02-05,Paris,France,,,y,SIU Box 16 folder 4,48.856614,2.3522219,True
+1132,1953-02-06,Paris,France,,,y,,48.856614,2.3522219,True
+1133,1953-02-07,Paris,France,,,y,,48.856614,2.3522219,True
+1134,1953-02-08,Paris,France,,,y,,48.856614,2.3522219,True
+1135,1953-02-09,Paris,France,,,y,SIU Box 16 folder 4,48.856614,2.3522219,True
+1136,1953-02-10,Paris,France,,,y,,48.856614,2.3522219,True
+1137,1953-02-11,Paris,France,,,y,SIU Box 16 folder 4,48.856614,2.3522219,True
+1138,1953-02-12,Paris,France,,,y,,48.856614,2.3522219,True
+1139,1953-02-13,Paris,France,,,y,,48.856614,2.3522219,True
+1140,1953-02-14,Paris,France,,,y,,48.856614,2.3522219,True
+1141,1953-02-15,Paris,France,,,y,SIU Box 16 folder 3,48.856614,2.3522219,True
+1142,1953-02-16,,,,,,,35.2109787,-101.8667601,False
+1143,1953-02-17,,,,,,,35.2109787,-101.8667601,False
+1144,1953-02-18,,,,,,,35.2109787,-101.8667601,False
+1145,1953-02-19,,,,,,,35.2109787,-101.8667601,False
+1146,1953-02-20,,,,,,,35.2109787,-101.8667601,False
+1147,1953-02-21,Bordeaux,France,,,y,SIU Box 39 folder 5,44.837789,-0.57918,False
+1148,1953-02-22,Bordeaux,France,,,y,SIU Box 16 folder 4,44.837789,-0.57918,True
+1149,1953-02-23,,,Paris ,France,n,SIU Box 39 folder 5,36.0545737,-95.923037,False
+1150,1953-02-24,Paris,France,,,,SIU Box 39 folder 5,48.856614,2.3522219,False
+1151,1953-02-25,Paris,France,,,,SIU Box 39 folder 5,48.856614,2.3522219,True
+1152,1953-02-26,Paris,France,,,,SIU Box 39 folder 5,48.856614,2.3522219,True
+1153,1953-02-27,Paris,France,,,,SIU Box 39 folder 5,48.856614,2.3522219,True
+1154,1953-02-28,Paris,France,,,,SIU Box 39 folder 5,48.856614,2.3522219,True
+1155,1953-03-01,Paris,France,,,,SIU Box 39 folder 5,48.856614,2.3522219,True
+1156,1953-03-02,Paris,France,,,,,48.856614,2.3522219,True
+1157,1953-03-03,Paris,France,,,,,48.856614,2.3522219,True
+1158,1953-03-04,Paris,France,,,,SIU Box 39 folder 5,48.856614,2.3522219,True
+1159,1953-03-05,,,,,,,35.2109787,-101.8667601,False
+1160,1953-03-06,,,,,,,35.2109787,-101.8667601,False
+1161,1953-03-07,,,,,,,35.2109787,-101.8667601,False
+1162,1953-03-08,,,,,,,35.2109787,-101.8667601,False
+1163,1953-03-09,,,,,,,35.2109787,-101.8667601,False
+1164,1953-03-10,,,,,,,35.2109787,-101.8667601,False
+1165,1953-03-11,,,,,,,35.2109787,-101.8667601,False
+1166,1953-03-12,,,,,,,35.2109787,-101.8667601,False
+1167,1953-03-13,Oran,Algeria,,,y,SIU Box 16 folder 5,35.6970697,-0.6307988,False
+1168,1953-03-14,Oran,Algeria,,,y,SIU Box 16 folder 5,35.6970697,-0.6307988,True
+1169,1953-03-15,,,,,,,35.2109787,-101.8667601,False
+1170,1953-03-16,,,,,,,35.2109787,-101.8667601,False
+1171,1953-03-17,Casablanca,Morocco,,,y,SIU Box 16 folder 5,33.5731104,-7.589843399999999,False
+1172,1953-03-18,Casablanca,Morocco,,,y,SIU Box 16 folder 5,33.5731104,-7.589843399999999,True
+1173,1953-03-19,,,,,,,35.2109787,-101.8667601,False
+1174,1953-03-20,,,,,,,35.2109787,-101.8667601,False
+1175,1953-03-21,,,,,,,35.2109787,-101.8667601,False
+1176,1953-03-22,,,,,,,35.2109787,-101.8667601,False
+1177,1953-03-23,,,,,,,35.2109787,-101.8667601,False
+1178,1953-03-24,,,,,,,35.2109787,-101.8667601,False
+1179,1953-03-25,,,,,,,35.2109787,-101.8667601,False
+1180,1953-03-26,Paris,France,,,n,SIU Box 16 folder 5,48.856614,2.3522219,False
+1181,1953-03-27,Paris,France,New York City,USA,n,Air France Flight manifest,48.856614,2.3522219,True
+1182,1953-03-28,New York City,USA,,,n,,40.7127753,-74.0059728,False
+1183,1953-03-29,New York City,USA,Chicago,Illinois,n,SIU Box 16 folder 5,40.7127753,-74.0059728,True
+1184,1953-03-30,Chicago,Illinois,,,n,,41.8781136,-87.6297982,False
+1185,1953-03-31,,,,,,,35.2109787,-101.8667601,False
+1186,1953-04-01,,,,,,,35.2109787,-101.8667601,False
+1187,1953-04-02,Joliet,Illinois,,,n,,41.525031,-88.0817251,False
+1188,1953-04-03,,,,,,,35.2109787,-101.8667601,False
+1189,1953-04-04,,,,,,,35.2109787,-101.8667601,False
+1190,1953-04-05,,,,,,,35.2109787,-101.8667601,False
+1191,1953-04-06,,,,,,,35.2109787,-101.8667601,False
+1192,1953-04-07,,,,,,,,,False
+1193,1953-04-08,,,,,,,35.2109787,-101.8667601,False
+1194,1953-04-09,,,,,,,35.2109787,-101.8667601,False
+1195,1953-04-10,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,False
+1196,1953-04-11,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1197,1953-04-12,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1198,1953-04-13,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1199,1953-04-14,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1200,1953-04-15,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1201,1953-04-16,Hollywood,USA,,,y,SIU Box 39 folder 5,34.0928092,-118.3286614,True
+1202,1953-04-17,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1203,1953-04-18,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1204,1953-04-19,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1205,1953-04-20,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1206,1953-04-21,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1207,1953-04-22,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1208,1953-04-23,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1209,1953-04-24,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1210,1953-04-25,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1211,1953-04-26,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1212,1953-04-27,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1213,1953-04-28,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1214,1953-04-29,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1215,1953-04-30,Hollywood,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1216,1953-05-01,Hollywood,USA,,,y,SIU Box 16 folder 5,34.0928092,-118.3286614,True
+1217,1953-05-02,San Francisco,USA,,,n,SIU Box 16 folder 6,37.7749295,-122.4194155,False
+1218,1953-05-03,San Francisco,USA,,,n,,37.7749295,-122.4194155,True
+1219,1953-05-04,San Francisco,USA,,,n,SIU Box 16 folder 4,37.7749295,-122.4194155,True
+1220,1953-05-05,San Francisco,USA,,,y,SIU Box 16 folder 5; SIU Box 16 folder 6,37.7749295,-122.4194155,True
+1221,1953-05-06,San Francisco,USA,,,y,SIU Box 39 folder 5,37.7749295,-122.4194155,True
+1222,1953-05-07,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1223,1953-05-08,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1224,1953-05-09,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1225,1953-05-10,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1226,1953-05-11,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1227,1953-05-12,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1228,1953-05-13,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1229,1953-05-14,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1230,1953-05-15,San Francisco,USA,,,y,SIU Box 16 folder 5,37.7749295,-122.4194155,True
+1231,1953-05-16,San Francisco,USA,,,y,,37.7749295,-122.4194155,True
+1232,1953-05-17,San Francisco,USA,,,y,MHS Box 22 Personal Log,37.7749295,-122.4194155,True
+1233,1953-05-18,San Francisco,USA,,,y,MHS Box 22 Personal Log,37.7749295,-122.4194155,True
+1234,1953-05-19,San Francisco,USA,,,y,MHS Box 22 Personal Log,37.7749295,-122.4194155,True
+1235,1953-05-20,San Francisco,USA,,,y,MHS Box 22 Personal Log,37.7749295,-122.4194155,True
+1236,1953-05-21,San Francisco,USA,,,y,MHS Box 22 Personal Log,37.7749295,-122.4194155,True
+1237,1953-05-22,San Francisco,USA,,,y,MHS Box 22 Personal Log,37.7749295,-122.4194155,True
+1238,1953-05-23,San Francisco,USA,,,y,MHS Box 22 Personal Log,37.7749295,-122.4194155,True
+1239,1953-05-24,San Francisco,USA,Las Vegas,USA,n,,37.7749295,-122.4194155,True
+1240,1953-05-25,Las Vegas,USA,,,n,,36.1699412,-115.1398296,False
+1241,1953-05-26,Las Vegas,USA,,,y,,36.1699412,-115.1398296,True
+1242,1953-05-27,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1243,1953-05-28,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1244,1953-05-29,Las Vegas,USA,,,y,SIU Box 39 folder 5; SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1245,1953-05-30,Las Vegas,USA,,,y,MHS Box 22 Personal Log; SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1246,1953-05-31,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1247,1953-06-01,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1248,1953-06-02,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1249,1953-06-03,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1250,1953-06-04,Hollywood,USA,,,n,MHS Box 22 Personal Log,34.0928092,-118.3286614,False
+1251,1953-06-05,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,False
+1252,1953-06-06,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1253,1953-06-07,Las Vegas,USA,,,y,SIU Box 16 folder 6,36.1699412,-115.1398296,True
+1254,1953-06-08,Hollywood,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,34.0928092,-118.3286614,False
+1255,1953-06-09,Hollywood,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1256,1953-06-10,Hollywood,USA,,,y,SIU Box 16 folder 7,,,True
+1257,1953-06-11,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1258,1953-06-12,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1259,1953-06-13,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1260,1953-06-14,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1261,1953-06-15,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1262,1953-06-16,Hollywood,USA,Reno,USA,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1263,1953-06-17,Reno,USA,,,y,SIU Box 16 folder 7,39.5296329,-119.8138027,False
+1264,1953-06-18,Reno,USA,,,y,SIU Box 16 folder 4; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1265,1953-06-19,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1266,1953-06-20,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1267,1953-06-21,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1268,1953-06-22,Hollywood,USA,,,y,MHS Box 22 Personal Log; SIU Box 39 folder 5; SIU Box 16 folder 7 - says Reno,34.0928092,-118.3286614,False
+1269,1953-06-23,Reno,USA,,,y,MHS Box 22 Personal Log,39.5296329,-119.8138027,False
+1270,1953-06-24,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1271,1953-06-25,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1272,1953-06-26,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1273,1953-06-27,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1274,1953-06-28,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1275,1953-06-29,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1276,1953-06-30,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1277,1953-07-01,Reno,USA,,,y,SIU Box 16 folder 6; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1278,1953-07-02,Reno,USA,Hollywood,USA,n,MHS Box 22 Personal Log; SIU Box 16 folder 7,39.5296329,-119.8138027,True
+1279,1953-07-03,Hollywood,USA,,,n,SIU Box 16 folder 7,34.0928092,-118.3286614,False
+1280,1953-07-04,Hollywood,USA,,,n,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1281,1953-07-05,Hollywood,USA,,,n,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1282,1953-07-06,Hollywood,USA,,,n,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1283,1953-07-07,Hollywood,USA,,,n,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1284,1953-07-08,Hollywood,USA,,,n,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1285,1953-07-09,Hollywood,USA,,,n,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1286,1953-07-10,Hollywood,USA,,,n,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1287,1953-07-11,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1288,1953-07-12,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1289,1953-07-13,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1290,1953-07-14,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1291,1953-07-15,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1292,1953-07-16,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1293,1953-07-17,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1294,1953-07-18,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1295,1953-07-19,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1296,1953-07-20,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1297,1953-07-21,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1298,1953-07-22,Hollywood,USA,,,y,MHS Box 22 Personal Log; SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1299,1953-07-23,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1300,1953-07-24,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1301,1953-07-25,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1302,1953-07-26,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1303,1953-07-27,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1304,1953-07-28,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1305,1953-07-29,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1306,1953-07-30,Hollywood,USA,,,y,SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1307,1953-07-31,Hollywood,USA,,,n,,34.0928092,-118.3286614,True
+1308,1953-08-01,Hollywood,USA,Vancouver,Canada,n,SIU Box 39 folder 5; SIU Box 16 folder 7,34.0928092,-118.3286614,True
+1309,1953-08-02,Vancouver,Canada,,,y,SIU Box 39 folder 5,49.2827291,-123.1207375,False
+1310,1953-08-03,Vancouver,Canada,,,y,SIU Box 39 folder 5; SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1311,1953-08-04,Vancouver,Canada,,,y,SIU Box 39 folder 5; SIU Box 16 folder 6,49.2827291,-123.1207375,True
+1312,1953-08-05,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1313,1953-08-06,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1314,1953-08-07,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1315,1953-08-08,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1316,1953-08-09,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1317,1953-08-10,Vancouver,Canada,,,y,MHS Box 22 Personal Log; SIU Box 16 folder 6,49.2827291,-123.1207375,True
+1318,1953-08-11,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1319,1953-08-12,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1320,1953-08-13,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1321,1953-08-14,Vancouver,Canada,,,y,SIU Box 39 folder 5; SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1322,1953-08-15,Vancouver,Canada,,,y,SIU Box 16 folder 6; SIU Box 17 folder 7,49.2827291,-123.1207375,True
+1323,1953-08-16,Vancouver,Canada,,,,,49.2827291,-123.1207375,True
+1324,1953-08-17,,,,,,,35.2109787,-101.8667601,False
+1325,1953-08-18,"Crystal Bay, NV",USA,,,n,,39.2278272,-120.0047095,False
+1326,1953-08-19,"Crystal Bay, NV",USA,,,y,,39.2278272,-120.0047095,True
+1327,1953-08-20,"Crystal Bay, NV",USA,,,y,,39.2278272,-120.0047095,True
+1328,1953-08-21,"Crystal Bay, NV",USA,,,y,SIU Box 39 folder 5; SIU Box 16 folder 6; MHS Log,39.2278272,-120.0047095,True
+1329,1953-08-22,"Crystal Bay, NV",USA,,,y,SIU Box 39 folder 5; SIU Box 16 folder 6; MHS Log,39.2278272,-120.0047095,True
+1330,1953-08-23,"Crystal Bay, NV",USA,,,y,SIU Box 39 folder 5; SIU Box 16 folder 6; MHS Log,39.2278272,-120.0047095,True
+1331,1953-08-24,"Crystal Bay, NV",USA,,,y,SIU Box 39 folder 5; SIU Box 16 folder 6; MHS Log,39.2278272,-120.0047095,True
+1332,1953-08-25,"Crystal Bay, NV",USA,,,y,SIU Box 16 folder 6,39.2278272,-120.0047095,True
+1333,1953-08-26,"Crystal Bay, NV",USA,,,y,SIU Box 16 folder 6,39.2278272,-120.0047095,True
+1334,1953-08-27,"Crystal Bay, NV",USA,,,y,SIU Box 16 folder 6,39.2278272,-120.0047095,True
+1335,1953-08-28,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,False
+1336,1953-08-29,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1337,1953-08-30,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1338,1953-08-31,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1339,1953-09-01,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1340,1953-09-02,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1341,1953-09-03,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1342,1953-09-04,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1343,1953-09-05,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1344,1953-09-06,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1345,1953-09-07,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1346,1953-09-08,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1347,1953-09-09,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1348,1953-09-10,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1349,1953-09-11,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1350,1953-09-12,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1351,1953-09-13,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1352,1953-09-14,Hollywood,USA,,,y,SIU Box 16 folder 2,34.0928092,-118.3286614,True
+1353,1953-09-15,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1354,1953-09-16,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1355,1953-09-17,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1356,1953-09-18,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1357,1953-09-19,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1358,1953-09-20,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1359,1953-09-21,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1360,1953-09-22,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1361,1953-09-23,Hollywood,USA,,,y,SIU Box 39 folder 5,34.0928092,-118.3286614,True
+1362,1953-09-24,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1363,1953-09-25,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1364,1953-09-26,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1365,1953-09-27,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1366,1953-09-28,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1367,1953-09-29,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1368,1953-09-30,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1369,1953-10-01,Hollywood,USA,,,y,SIU Box 39 folder 5,34.0928092,-118.3286614,True
+1370,1953-10-02,Hollywood,USA,,,y,SIU Box 16 folder 8,34.0928092,-118.3286614,True
+1371,1953-10-03,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1372,1953-10-04,Hollywood,USA,,,y,SIU Box 16 folder 8,34.0928092,-118.3286614,True
+1373,1953-10-05,Hollywood,USA,,,y,,34.0928092,-118.3286614,True
+1374,1953-10-06,,,,,n,,36.0545737,-95.923037,False
+1375,1953-10-07,,,,,n,,36.0545737,-95.923037,False
+1376,1953-10-08,Havana,Cuba,,,n,,23.1135925,-82.3665956,False
+1377,1953-10-09,Havana,Cuba,,,n,"FBI file; letter to Dale dated Oct 10, 1953 in SIU Box 16 folder 8",23.1135925,-82.3665956,True
+1378,1953-10-10,Havana,Cuba,,,n,"letter to Dale dated Oct 10, 1953 in SIU Box 16 folder 9",23.1135925,-82.3665956,True
+1379,1953-10-11,,,,,n,,36.0545737,-95.923037,False
+1380,1953-10-12,,,,,n,,36.0545737,-95.923037,False
+1381,1953-10-13,Los Angeles,USA,,,y,"MHS Box 22, Personal Log",34.0522342,-118.2436849,False
+1382,1953-10-14,Los Angeles,USA,,,y,,34.0522342,-118.2436849,True
+1383,1953-10-15,Los Angeles,USA,,,y,,34.0522342,-118.2436849,True
+1384,1953-10-16,Los Angeles,USA,,,y,SIU Box 16 folder 8,34.0522342,-118.2436849,True
+1385,1953-10-17,Los Angeles,USA,,,y,,34.0522342,-118.2436849,True
+1386,1953-10-18,Los Angeles,USA,,,y,,34.0522342,-118.2436849,True
+1387,1953-10-19,Los Angeles,USA,,,y,,34.0522342,-118.2436849,True
+1388,1953-10-20,Los Angeles,USA,,,y,,34.0522342,-118.2436849,True
+1389,1953-10-21,Los Angeles,USA,,,y,SIU Box 16 folder 8,34.0522342,-118.2436849,True
+1390,1953-10-22,Los Angeles,USA,,,y,,34.0522342,-118.2436849,True
+1391,1953-10-23,,,,,,,35.2109787,-101.8667601,False
+1392,1953-10-24,,,,,,,35.2109787,-101.8667601,False
+1393,1953-10-25,,,,,,,35.2109787,-101.8667601,False
+1394,1953-10-26,,,,,,,35.2109787,-101.8667601,False
+1395,1953-10-27,,,,,,,35.2109787,-101.8667601,False
+1396,1953-10-28,,,,,,,35.2109787,-101.8667601,False
+1397,1953-10-29,,,,,,,35.2109787,-101.8667601,False
+1398,1953-10-30,,,,,,,35.2109787,-101.8667601,False
+1399,1953-10-31,,,,,,,35.2109787,-101.8667601,False
+1400,1953-11-01,San Francisco,USA,,,y,SIU Box 16 folder 9,37.7749295,-122.4194155,False
+1401,1953-11-02,San Francisco,USA,,,y,SIU Box 16 folder 9,37.7749295,-122.4194155,True
+1402,1953-11-03,San Francisco,USA,,,,,37.7749295,-122.4194155,True
+1403,1953-11-04,San Francisco ,USA,,,,,37.7749295,-122.4194155,False
+1404,1953-11-05,,,,,,,35.2109787,-101.8667601,False
+1405,1953-11-06,,,,,,,35.2109787,-101.8667601,False
+1406,1953-11-07,,,,,,,35.2109787,-101.8667601,False
+1407,1953-11-08,,,,,,,35.2109787,-101.8667601,False
+1408,1953-11-09,,,,,,,35.2109787,-101.8667601,False
+1409,1953-11-10,Beverly Hills,USA,,,n,SIU Box 16 folder 9,34.0736204,-118.4003563,False
+1410,1953-11-11,,,,,,,35.2109787,-101.8667601,False
+1411,1953-11-12,,,,,,,35.2109787,-101.8667601,False
+1412,1953-11-13,,,,,,,35.2109787,-101.8667601,False
+1413,1953-11-14,,,,,,,35.2109787,-101.8667601,False
+1414,1953-11-15,,,,,,,35.2109787,-101.8667601,False
+1415,1953-11-16,,,,,,,35.2109787,-101.8667601,False
+1416,1953-11-17,,,,,,,35.2109787,-101.8667601,False
+1417,1953-11-18,,,,,,,35.2109787,-101.8667601,False
+1418,1953-11-19,New York,USA,Paris,France,n,SIU Box 39 folder 5,40.7127753,-74.0059728,False
+1419,1953-11-20,Paris,France,Rome,Italy,n,SIU Box 39 folder 5,48.856614,2.3522219,False
+1420,1953-11-21,,,,,,,35.2109787,-101.8667601,False
+1421,1953-11-22,,,,,,,35.2109787,-101.8667601,False
+1422,1953-11-23,Rome,Italy,,,,SIU Box 39 folder 5,41.9027835,12.4963655,False
+1423,1953-11-24,Rome,Italy,,,,,41.9027835,12.4963655,True
+1424,1953-11-25,Rome,Italy,,,y,SIU Box 16 folder 9,41.9027835,12.4963655,True
+1425,1953-11-26,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1426,1953-11-27,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1427,1953-11-28,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1428,1953-11-29,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1429,1953-11-30,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1430,1953-12-01,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1431,1953-12-02,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1432,1953-12-03,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1433,1953-12-04,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1434,1953-12-05,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1435,1953-12-06,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1436,1953-12-07,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1437,1953-12-08,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1438,1953-12-09,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1439,1953-12-10,Rome,Italy,,,y,SIU Box 39 folder 5,41.9027835,12.4963655,True
+1440,1953-12-11,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1441,1953-12-12,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1442,1953-12-13,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1443,1953-12-14,Rome,Italy,,,y,SIU Box 16 folder 9,41.9027835,12.4963655,True
+1444,1953-12-15,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1445,1953-12-16,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1446,1953-12-17,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1447,1953-12-18,Rome,Italy,,,y,SIU Box 16 folder 9,41.9027835,12.4963655,True
+1448,1953-12-19,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1449,1953-12-20,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1450,1953-12-21,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1451,1953-12-22,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1452,1953-12-23,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1453,1953-12-24,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1454,1953-12-25,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1455,1953-12-26,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1456,1953-12-27,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1457,1953-12-28,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1458,1953-12-29,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1459,1953-12-30,Rome,Italy,,,y,,41.9027835,12.4963655,True
+1460,1953-12-31,Rome,Italy,,,y,,41.9027835,12.4963655,True
